@@ -61,11 +61,27 @@
     "items": [
       {
         "question": "A mund të notoni në Syrin e Kaltër?",
-        "answer": "Noti është zyrtarisht i ndaluar për të ruajtur ekosistemin natyror, megjithëse disa vizitorë ende hidhen. Uji është gjithashtu jashtëzakonisht i ftohtë (10°C)."
+        "answer": "Noti në burimin qendror 'syri' është zyrtarisht i ndaluar për të ruajtur ekosistemin natyror dhe ka tabela që paralajmërojnë kundër kësaj. Pavarësisht kësaj, disa vizitorë ende hidhen. Uji është jashtëzakonisht i ftohtë (rreth 10°C / 50°F gjatë gjithë vitit) dhe rrymat nënujore mund të jenë mashtruese të forta."
       },
       {
         "question": "A ka një tarifë hyrjeje?",
-        "answer": "Po, ka një tarifë të vogël hyrjeje për të hyrë në rezervën natyrore, dhe një tarifë parkimi nëse sillni një automjet."
+        "answer": "Po, ka një tarifë të vogël hyrjeje për të hyrë në rezervën natyrore (rreth 100 Lek ose €1 për person), dhe një tarifë shtesë parkimi nëse sillni një automjet (rreth 200 Lek)."
+      },
+      {
+        "question": "Sa kohë duhet për ta vizituar?",
+        "answer": "Shumica e vizitorëve kalojnë 1 deri në 2 orë në këtë vend. Duhen rreth 20-30 minuta për të ecur nga zona e parkimit në burim, plus kohë për të bërë foto, për të shijuar pamjen dhe ndoshta për t'u relaksuar në një kafene aty pranë."
+      },
+      {
+        "question": "Sa i thellë është Syri i Kaltër?",
+        "answer": "Thellësia e saktë është ende e panjohur. Zhytësit kanë zbritur deri në 50 metra (164 këmbë), por presioni i fortë i ujit lart e bën të vështirë eksplorimin e mëtejshëm. Vrima e thellë karstike i jep burimit pamjen e tij të 'bebëzës' blu të errët."
+      },
+      {
+        "question": "A ka vende për të ngrënë afër?",
+        "answer": "Po, ka disa restorante dhe kafene të thjeshta afër burimit ku mund të merrni pije, ushqime të lehta dhe pjata tradicionale shqiptare, shpesh duke përfshirë troftë lokale të rritur në ujin e ftohtë të burimit."
+      },
+      {
+        "question": "A është shtegu i aksesueshëm për karroca invalidësh ose karroca fëmijësh?",
+        "answer": "Shtegu nga zona e parkimit është kryesisht i shtruar por përfshin një ecje prej rreth 1.5 deri në 2 kilometra. Ndërsa është relativisht i sheshtë, ka disa seksione të pabarabarta dhe shkallë pranë platformës së shikimit, duke e bërë atë vetëm pjesërisht të aksesueshëm për karroca."
       }
     ]
   },

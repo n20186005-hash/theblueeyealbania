@@ -61,11 +61,27 @@
     "items": [
       {
         "question": "Can you swim in The Blue Eye?",
-        "answer": "Swimming is officially prohibited to preserve the natural ecosystem, though some visitors still jump in. The water is also extremely cold (10°C)."
+        "answer": "Swimming in the central 'eye' spring is officially prohibited to preserve the natural ecosystem, and there are signs warning against it. Despite this, some visitors still jump in. The water is extremely cold (around 10°C / 50°F year-round) and the underwater currents can be deceptively strong."
       },
       {
         "question": "Is there an entrance fee?",
-        "answer": "Yes, there is a small entrance fee to access the nature reserve, and a parking fee if you bring a vehicle."
+        "answer": "Yes, there is a small entrance fee to access the nature reserve (approximately 100 Lek or €1 per person), and an additional parking fee if you bring a vehicle (around 200 Lek)."
+      },
+      {
+        "question": "How long does it take to visit?",
+        "answer": "Most visitors spend 1 to 2 hours at the site. It takes about 20-30 minutes to walk from the parking area to the spring, plus time for taking photos, enjoying the view, and perhaps relaxing at a nearby café."
+      },
+      {
+        "question": "How deep is The Blue Eye?",
+        "answer": "The exact depth is still unknown. Divers have descended to 50 meters (164 feet), but the strong upward pressure of the water makes it difficult to explore further. The deep karst hole gives the spring its dark blue 'pupil' appearance."
+      },
+      {
+        "question": "Are there places to eat nearby?",
+        "answer": "Yes, there are a few simple restaurants and cafes near the spring where you can get drinks, snacks, and traditional Albanian dishes, often featuring local trout raised in the cold spring water."
+      },
+      {
+        "question": "Is the path accessible for wheelchairs or strollers?",
+        "answer": "The path from the parking area is mostly paved but involves a walk of about 1.5 to 2 kilometers. While it is relatively flat, there are some uneven sections and steps near the viewing platform, making it only partially accessible for wheelchairs."
       }
     ]
   },
