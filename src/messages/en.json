@@ -83,8 +83,6 @@
     "googleRatingValue": "4.4 (14,788)",
     "address": "Address",
     "addressValue": "Sarande SHA22, Saranda 9701 Albania",
-    "telephone": "Contact Phone",
-    "telephoneValue": "N/A",
     "accessibility": "Accessibility",
     "accessibilityValue": "Partial",
     "plusCode": "Plus Code",
@@ -108,7 +106,7 @@
     "parking": "Parking",
     "parkingPrice": "Approx. 200 Lek per vehicle",
     "guided": "Guided Tours",
-    "guidedPrice": "Available from Saranda"
+    "guidedPrice": "It is recommended to book day tours in advance through local travel agencies in Saranda or Gjirokastër"
   },
   "transport": {
     "title": "How to Get Here",
@@ -119,11 +117,11 @@
     "fromAirport": "From Tirana Airport",
     "fromAirportDesc": "Around a 4-5 hour drive south.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "You can take a bus traveling between Saranda and Gjirokastër and ask the driver to drop you off at the turnoff for The Blue Eye.",
+    "publicTransportDesc": "You can take the public bus traveling between Saranda and Gjirokastër. Ask the driver to drop you off at The Blue Eye (Syri i Kaltër). The ticket is around 300 Lek, and the ride takes about 45 minutes. After getting off, you will need to walk about 2 km along a scenic road to reach the ticket office and spring.",
     "walking": "Walking",
-    "walkingDesc": "From the turnoff or parking area, there is a scenic walk to reach the actual spring.",
+    "walkingDesc": "From the main road turnoff or parking area, you will need to walk 1.5 to 2 km along a paved or dirt path surrounded by nature to reach the spring. Comfortable walking shoes are highly recommended.",
     "driving": "Driving",
-    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance."
+    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance. The road conditions are good, but it can get quite crowded during the summer peak season, so arriving early is recommended. Renting a scooter from Saranda is also a very popular option."
   },
   "route": {
     "title": "Recommended Route",
@@ -190,6 +188,30 @@
         "rating": 4,
         "date": "2026-02-05",
         "text": "Great spot for photography. The walk from the parking lot is very pleasant."
+      },
+      {
+        "name": "Paula W.",
+        "rating": 5,
+        "date": "2025-10-12",
+        "text": "The Blue Eye was stunning. Definitely go to see it if you have the chance."
+      },
+      {
+        "name": "Sarai M.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Incredible experience!! The place is amazing 😍. 100% recommended."
+      },
+      {
+        "name": "Kathy B.",
+        "rating": 5,
+        "date": "2025-08-20",
+        "text": "Beautiful monument!! This is a must see!!"
+      },
+      {
+        "name": "Thomas G.",
+        "rating": 4,
+        "date": "2025-07-15",
+        "text": "The location is stunning! Surrounded by nature and the river fed by the crystal-clear waters of the Blue Eye spring."
       }
     ]
   },
@@ -217,7 +239,7 @@
   },
   "officialManagement": {
     "title": "About The Blue Eye",
-    "text": "The Blue Eye is a protected nature reserve in Albania, celebrated for its unique geological features and stunning beauty."
+    "text": "The Blue Eye is a protected nature reserve in Albania, celebrated for its unique geological features and stunning beauty. The reserve is officially managed by the National Agency of Protected Areas (AKZM) and the Ministry of Tourism and Environment, dedicated to preserving the fragile karst hydrological ecosystem."
   },
   "privacy": {
     "title": "Privacy Policy",

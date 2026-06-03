@@ -83,8 +83,6 @@
     "googleRatingValue": "4.4 (14,788)",
     "address": "Adresa",
     "addressValue": "Sarande SHA22, Saranda 9701 Shqipëri",
-    "telephone": "Telefoni",
-    "telephoneValue": "N/A",
     "accessibility": "Aksesueshmëria",
     "accessibilityValue": "E pjesshme",
     "plusCode": "Kodi Plus",
@@ -108,7 +106,7 @@
     "parking": "Parkimi",
     "parkingPrice": "Rreth 200 Lek për automjet",
     "guided": "Ture të Guiduara",
-    "guidedPrice": "Të disponueshme nga Saranda"
+    "guidedPrice": "Rekomandohet të rezervoni ture ditore paraprakisht përmes agjencive lokale të udhëtimit në Sarandë ose Gjirokastër"
   },
   "transport": {
     "title": "Si të arrini këtu",
@@ -119,11 +117,11 @@
     "fromAirport": "Nga Aeroporti i Tiranës",
     "fromAirportDesc": "Rreth 4-5 orë me makinë në jug.",
     "publicTransport": "Transporti Publik",
-    "publicTransportDesc": "Ju mund të merrni një autobus që udhëton midis Sarandës dhe Gjirokastrës dhe të kërkoni nga shoferi t'ju zbresë në kthesën për Syrin e Kaltër.",
+    "publicTransportDesc": "Mund të merrni autobusin publik që udhëton midis Sarandës dhe Gjirokastrës. Kërkojini shoferit t'ju zbresë në Syrin e Kaltër. Bileta kushton rreth 300 Lekë dhe udhëtimi zgjat rreth 45 minuta. Pas zbritjes, do t'ju duhet të ecni rreth 2 km përgjatë një rruge të bukur për të arritur në zyrën e biletave dhe burim.",
     "walking": "Në këmbë",
-    "walkingDesc": "Nga kthesa ose zona e parkimit, ka një shëtitje piktoreske për të arritur në burimin aktual.",
+    "walkingDesc": "Nga kthesa e rrugës kryesore ose zona e parkimit, do t'ju duhet të ecni 1.5 deri në 2 km përgjatë një shtegu të rrethuar nga natyra për të arritur në burim. Rekomandohen këpucë të rehatshme për ecje.",
     "driving": "Me makinë",
-    "drivingDesc": "Mënyra më e përshtatshme për të arritur në rezervë. Ka një zonë parkimi afër hyrjes."
+    "drivingDesc": "Mënyra më e përshtatshme për të arritur në rezervë. Ka një zonë parkimi afër hyrjes. Kushtet e rrugës janë të mira, por mund të bëhet mjaft e mbushur me njerëz gjatë sezonit të pikut të verës, ndaj rekomandohet të mbërrini herët. Marrja me qira e një skuter nga Saranda është gjithashtu një opsion shumë i njohur."
   },
   "route": {
     "title": "Rruga e Rekomanduar",
@@ -190,6 +188,30 @@
         "rating": 4,
         "date": "2026-02-05",
         "text": "Vendi i mrekullueshëm për fotografi. Ecja nga parkingu është shumë e këndshme."
+      },
+      {
+        "name": "Paula W.",
+        "rating": 5,
+        "date": "2025-10-12",
+        "text": "Syri i Kaltër ishte mahnitës. Përfundimisht shkoni ta shihni nëse keni mundësi."
+      },
+      {
+        "name": "Sarai M.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Përvojë e jashtëzakonshme!! Vendi është i mrekullueshëm 😍. E rekomandoj 100%."
+      },
+      {
+        "name": "Kathy B.",
+        "rating": 5,
+        "date": "2025-08-20",
+        "text": "Monument i bukur!! Ky është një vend që duhet parë patjetër!!"
+      },
+      {
+        "name": "Thomas G.",
+        "rating": 4,
+        "date": "2025-07-15",
+        "text": "Vendndodhja është mahnitëse! E rrethuar nga natyra dhe lumi që ushqehet nga ujërat e kristalta të burimit të Syrit të Kaltër."
       }
     ]
   },
@@ -217,7 +239,7 @@
   },
   "officialManagement": {
     "title": "Rreth Syrit të Kaltër",
-    "text": "Syri i Kaltër është një rezervë natyrore e mbrojtur në Shqipëri, e famshme për veçoritë e saj unike gjeologjike dhe bukurinë mahnitëse."
+    "text": "Syri i Kaltër është një rezervë natyrore e mbrojtur në Shqipëri, e famshme për veçoritë e saj unike gjeologjike dhe bukurinë mahnitëse. Rezerva menaxhohet zyrtarisht nga Agjencia Kombëtare e Zonave të Mbrojtura (AKZM) dhe Ministria e Turizmit dhe Mjedisit, e përkushtuar në ruajtjen e ekosistemit të brishtë hidrologjik karstik."
   },
   "privacy": {
     "title": "Politika e Privatësisë",
