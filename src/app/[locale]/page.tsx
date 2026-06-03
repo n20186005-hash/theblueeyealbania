@@ -19,7 +19,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://theblueeye.com';
+  const baseUrl = 'https://theblueeyealbania.com';
   return {
     alternates: {
       canonical: `${baseUrl}/${locale}`,
