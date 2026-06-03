@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "title": "The Blue Eye – Saranda, Albania",
+    "description": "Complete travel guide to The Blue Eye in Saranda. Learn about this nature reserve, including location, views, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "The Blue Eye",
+    "subtitle": "Syri i Kaltër",
+    "rating": "4.4",
+    "reviewCount": "14,788 reviews",
+    "type": "Nature Reserve",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
+  },
+  "intro": {
+    "title": "Discover The Blue Eye",
+    "description": "The Blue Eye (Syri i Kaltër) is a stunning water spring and natural phenomenon occurring near Muzinë in Vlorë County, Albania. A popular tourist attraction, the clear blue water of the river bubbles forth from a stunning, more than fifty-metre-deep pool. Divers have descended to fifty metres, but it is still unclear what the actual depth of the karst hole is.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The water is extremely cold, usually around 10°C (50°F).",
+        "Swimming is officially prohibited to protect the natural environment.",
+        "There are cafes and restaurants nearby for refreshments.",
+        "The area is surrounded by lush green forests, perfect for a short hike."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Crystal clear blue water",
+        "Deep karst spring",
+        "Surrounding oak and sycamore trees",
+        "Breathtaking natural beauty"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About The Blue Eye",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Location & Geography",
+        "content": "Located in southern Albania, The Blue Eye is the initial water source of the Bistricë river, which ends in the Ionian Sea south of Saranda. The spring is situated in a dense forest of oaks and sycamores."
+      },
+      {
+        "id": "phenomenon",
+        "title": "Natural Phenomenon",
+        "content": "The spring owes its name to its striking appearance: the deep center is a dark blue, like the pupil of an eye, while the surrounding shallower water is a lighter shade of blue, like the iris."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Can you swim in The Blue Eye?",
+        "answer": "Swimming is officially prohibited to preserve the natural ecosystem, though some visitors still jump in. The water is also extremely cold (10°C)."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "Yes, there is a small entrance fee to access the nature reserve, and a parking fee if you bring a vehicle."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "The Blue Eye (Syri i Kaltër)",
+    "type": "Attraction Type",
+    "typeValue": "Nature Reserve",
+    "country": "Country",
+    "countryValue": "Albania",
+    "city": "City",
+    "cityValue": "Saranda",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.4 (14,788)",
+    "address": "Address",
+    "addressValue": "Sarande SHA22, Saranda 9701 Albania",
+    "telephone": "Contact Phone",
+    "telephoneValue": "N/A",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Partial",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "WV8P+RQ Muzinë, Albania"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Reserve Access",
+    "parkTime": "Usually open from 7:00 AM to 7:00 PM (Summer hours may vary)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Lush greenery and fewer crowds",
+    "bestTimeSummer": "Summer: Great for cooling down, but very crowded",
+    "bestTimeAutumn": "Autumn: Beautiful foliage and pleasant weather",
+    "bestTimeWinter": "Winter: Quiet, but many facilities may be closed",
+    "tip": "Visit early in the morning to avoid large crowds and enjoy the peaceful atmosphere."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Entrance Fee",
+    "parkPrice": "Approx. 50 Lek per person",
+    "parking": "Parking",
+    "parkingPrice": "Approx. 200 Lek per vehicle",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available from Saranda"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Saranda",
+    "fromCenterDesc": "About a 30-40 minute drive inland towards Gjirokastër.",
+    "fromStation": "From Gjirokastër",
+    "fromStationDesc": "About a 45-60 minute drive towards Saranda.",
+    "fromAirport": "From Tirana Airport",
+    "fromAirportDesc": "Around a 4-5 hour drive south.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "You can take a bus traveling between Saranda and Gjirokastër and ask the driver to drop you off at the turnoff for The Blue Eye.",
+    "walking": "Walking",
+    "walkingDesc": "From the turnoff or parking area, there is a scenic walk to reach the actual spring.",
+    "driving": "Driving",
+    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Explore the natural beauty of the spring.",
+    "steps": [
+      "Arrive at the parking area",
+      "Walk along the scenic path",
+      "Admire the Blue Eye spring",
+      "Relax at the nearby cafes",
+      "Take a short hike in the surrounding forest"
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Beauty of The Blue Eye",
+    "captions": [
+      "The Blue Eye",
+      "Crystal clear water",
+      "Lush forest",
+      "Nature reserve",
+      "Spring details",
+      "Surrounding nature",
+      "River Bistricë",
+      "Viewing platform",
+      "Scenic views",
+      "Water shades",
+      "Trees and water",
+      "Deep blue center",
+      "Beautiful landscape",
+      "Natural wonder",
+      "Clear spring",
+      "Forest path",
+      "Tranquil environment"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "Absolutely stunning natural beauty. The colors of the water are unbelievable!"
+      },
+      {
+        "name": "Mark T.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "Very beautiful, but gets quite crowded in the afternoon. Come early!"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "A magical place. The cold water is refreshing, and the surrounding forest is peaceful."
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "date": "2026-02-05",
+        "text": "Great spot for photography. The walk from the parking lot is very pleasant."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Sarande SHA22, Saranda 9701 Albania",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "The Blue Eye",
+    "brandSubtitle": "Syri i Kaltër",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "akt": "Albanian National Tourism Agency",
+      "iktk": "National Institute of Cultural Heritage",
+      "arkiva": "General Directorate of Archives",
+      "asig": "State Authority for Geospatial Information (ASIG)",
+      "visa": "Ministry for Europe and Foreign Affairs - Visa Policy"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About The Blue Eye",
+    "text": "The Blue Eye is a protected nature reserve in Albania, celebrated for its unique geological features and stunning beauty."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about The Blue Eye. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

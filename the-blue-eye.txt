@@ -1,0 +1,110 @@
+
+
+给这个单景点买域名.com推荐
+
+
+
+我们网站是
+
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 The Blue Eye 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+阿尔巴尼亚地拉那州	The Blue Eye
+
+the-blue-eye
+
+The Blue Eye
+Syri i Kaltër
+4.4(14,788)
+自然保护区
+Sarande SHA22, Saranda 9701阿尔巴尼亚
+
+
+https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\阿尔巴尼亚\the-blue-eye\public\gallery\the-blue-eye (1).jpg
+
+
+删除原先友情链接，新增以下友情链接
+
+阿尔巴尼亚国家旅游局
+https://akt.gov.al/
+
+
+阿尔巴尼亚国家文化遗产研究所
+https://iktk.gov.al/
+
+阿尔巴尼亚国家档案总局
+https://arkiva.gov.al/
+
+国家地理空间信息管理局 (ASIG)
+https://asig.gov.al/
+
+阿尔巴尼亚欧洲与外交事务部 —— 国际游客免签与签证政策查询
+punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/
+
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+新增
+阿尔巴尼亚语（Shqip）
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+给这个单景点买域名.com推荐
+
+
+
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：

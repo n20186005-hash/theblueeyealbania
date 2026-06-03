@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "title": "蓝眼泉 (The Blue Eye) – 萨兰达, 阿尔巴尼亚",
+    "description": "蓝眼泉完整旅游指南。了解这个自然保护区，包括位置、景观、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "The Blue Eye",
+    "subtitle": "Syri i Kaltër",
+    "rating": "4.4",
+    "reviewCount": "14,788 条评价",
+    "type": "自然保护区",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
+  },
+  "intro": {
+    "title": "探索 The Blue Eye",
+    "description": "蓝眼泉 (The Blue Eye / Syri i Kaltër) 是阿尔巴尼亚南部的一处令人惊叹的自然保护区。清澈见底的泉水从深不可测的喀斯特深渊中涌出，中心呈深蓝色，边缘呈浅蓝色，宛如一只美丽的蓝色眼睛。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "泉水极其寒冷，通常在 10°C (50°F) 左右。",
+        "为了保护自然环境，官方禁止游泳。",
+        "附近有咖啡馆和餐厅提供茶点。",
+        "周围环绕着茂密的森林，非常适合短途徒步。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "清澈见底的蓝色泉水",
+        "深不可测的喀斯特深渊",
+        "周围的橡树和悬铃木",
+        "令人惊叹的自然美景"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 The Blue Eye",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "位置与地理",
+        "content": "蓝眼泉位于阿尔巴尼亚南部，是比斯特里察河 (Bistricë) 的初始水源，该河流最终在萨兰达以南注入爱奥尼亚海。泉水坐落在一片茂密的橡树和悬铃木森林中。"
+      },
+      {
+        "id": "phenomenon",
+        "title": "自然奇观",
+        "content": "该泉水的名字源于其引人注目的外观：深邃的中心呈深蓝色，像眼睛的瞳孔，而周围较浅的水域则呈浅蓝色，像虹膜一样。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "可以在蓝眼泉里游泳吗？",
+        "answer": "为了保护自然生态系统，官方是禁止游泳的，尽管有些游客仍然会跳进去。此外，泉水极其寒冷（约 10°C）。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "是的，进入自然保护区需要支付少量的门票费用，如果开车前往还需要支付停车费。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "The Blue Eye (Syri i Kaltër)",
+    "type": "景点类型",
+    "typeValue": "自然保护区",
+    "country": "国家",
+    "countryValue": "阿尔巴尼亚 (Albania)",
+    "city": "城市",
+    "cityValue": "萨兰达 (Saranda)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.4 (14,788)",
+    "address": "地址",
+    "addressValue": "Sarande SHA22, Saranda 9701 阿尔巴尼亚",
+    "telephone": "联系电话",
+    "telephoneValue": "无",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "部分可通行",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "WV8P+RQ Muzinë, 阿尔巴尼亚"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "保护区开放",
+    "parkTime": "通常每天早上 7:00 至晚上 7:00 开放（夏季可能会有变化）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：生机勃勃的绿意和较少的游客",
+    "bestTimeSummer": "夏季：避暑的好去处，但游客非常多",
+    "bestTimeAutumn": "秋季：美丽的秋叶色彩和宜人的天气",
+    "bestTimeWinter": "冬季：宁静，但许多设施可能会关闭",
+    "tip": "建议清晨前往，以避开拥挤的人群并享受宁静的氛围。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "保护区门票",
+    "parkPrice": "约 50 列克 / 人",
+    "parking": "停车信息",
+    "parkingPrice": "约 200 列克 / 车",
+    "guided": "导游服务",
+    "guidedPrice": "可从萨兰达报名参加"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从萨兰达",
+    "fromCenterDesc": "向内陆（吉诺卡斯特方向）驱车约 30-40 分钟。",
+    "fromStation": "从吉诺卡斯特",
+    "fromStationDesc": "向萨兰达方向驱车约 45-60 分钟。",
+    "fromAirport": "从地拉那机场",
+    "fromAirportDesc": "向南驱车约 4-5 小时。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "您可以乘坐往返萨兰达和吉诺卡斯特的巴士，并请司机在蓝眼泉的岔路口让您下车。",
+    "walking": "步行",
+    "walkingDesc": "从岔路口或停车场出发，沿着风景优美的步道步行即可到达泉水处。",
+    "driving": "自驾",
+    "drivingDesc": "到达保护区最便捷的方式。入口附近设有停车场。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索泉水的自然美景。",
+    "steps": [
+      "抵达停车场",
+      "沿着风景优美的步道步行",
+      "欣赏蓝眼泉",
+      "在附近的咖啡馆放松",
+      "在周围的森林中进行短途徒步"
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "The Blue Eye 之美",
+    "captions": [
+      "蓝眼泉",
+      "清澈的泉水",
+      "茂密的森林",
+      "自然保护区",
+      "泉水细节",
+      "周围自然环境",
+      "比斯特里察河",
+      "观景平台",
+      "风景如画",
+      "水的层次",
+      "树木与水",
+      "深邃的蓝色中心",
+      "美丽的风景",
+      "自然奇观",
+      "清澈的水源",
+      "森林小径",
+      "宁静的环境"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看位置",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "绝对令人惊叹的自然美景。水的颜色令人难以置信！"
+      },
+      {
+        "name": "Mark T.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "非常美丽，但下午会变得相当拥挤。建议早点来！"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "一个神奇的地方。冰凉的泉水令人神清气爽，周围的森林十分宁静。"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "date": "2026-02-05",
+        "text": "绝佳的摄影地点。从停车场走过来的步道非常宜人。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Sarande SHA22, Saranda 9701 阿尔巴尼亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "The Blue Eye",
+    "brandSubtitle": "Syri i Kaltër",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "akt": "阿尔巴尼亚国家旅游局",
+      "iktk": "阿尔巴尼亚国家文化遗产研究所",
+      "arkiva": "阿尔巴尼亚国家档案总局",
+      "asig": "国家地理空间信息管理局 (ASIG)",
+      "visa": "阿尔巴尼亚欧洲与外交事务部 —— 国际游客免签与签证政策查询"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于 The Blue Eye",
+    "text": "蓝眼泉是阿尔巴尼亚的一个受保护的自然保护区，以其独特的地质特征和令人惊叹的美景而闻名。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关蓝眼泉的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}

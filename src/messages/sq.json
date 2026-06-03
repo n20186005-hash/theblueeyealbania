@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "title": "Syri i Kaltër – Sarandë, Shqipëri",
+    "description": "Udhëzues i plotë udhëtimi për Syrin e Kaltër në Sarandë. Mësoni rreth kësaj rezerve natyrore, duke përfshirë vendndodhjen, pamjet, qasjen dhe informacionin për vizitorët."
+  },
+  "header": {
+    "home": "Kreu",
+    "gallery": "Galeria",
+    "reviews": "Vlerësime",
+    "map": "Harta",
+    "backToHome": "Kthehu te Kreu"
+  },
+  "hero": {
+    "title": "The Blue Eye",
+    "subtitle": "Syri i Kaltër",
+    "rating": "4.4",
+    "reviewCount": "14,788 vlerësime",
+    "type": "Rezervë Natyrore",
+    "openMaps": "Shiko në Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
+  },
+  "intro": {
+    "title": "Zbuloni Syrin e Kaltër",
+    "description": "Syri i Kaltër është një burim uji mahnitës dhe fenomen natyror që ndodh pranë Muzinës në Qarkun e Vlorës, Shqipëri. Një atraksion i popullarizuar turistik, uji i pastër blu i lumit buron nga një pishinë mahnitëse, më shumë se pesëdhjetë metra e thellë. Zhytësit kanë zbritur deri në pesëdhjetë metra, por ende nuk është e qartë se cila është thellësia e vërtetë e vrimës karstike.",
+    "visitGuide": {
+      "title": "Këshilla për vizitë",
+      "items": [
+        "Uji është jashtëzakonisht i ftohtë, zakonisht rreth 10°C (50°F).",
+        "Noti është zyrtarisht i ndaluar për të mbrojtur mjedisin natyror.",
+        "Ka kafene dhe restorante afër për pije dhe ushqim.",
+        "Zona është e rrethuar nga pyje të gjelbra të harlisura, e përsosur për një shëtitje të shkurtër."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Pikat kryesore",
+      "items": [
+        "Ujë blu kristal i pastër",
+        "Burim i thellë karstik",
+        "Rrethuar nga pemë lisi dhe rrapi",
+        "Bukuri natyrore mahnitëse"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Rreth Syrit të Kaltër",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Vendndodhja dhe Gjeografia",
+        "content": "E vendosur në Shqipërinë e Jugut, Syri i Kaltër është burimi fillestar i ujit të lumit Bistricë, i cili përfundon në Detin Jon në jug të Sarandës. Burimi ndodhet në një pyll të dendur me lisi dhe rrapi."
+      },
+      {
+        "id": "phenomenon",
+        "title": "Fenomen Natyror",
+        "content": "Burimi i detyrohet emrit të tij pamjes së tij të habitshme: qendra e thellë është një blu e errët, si bebëza e një syri, ndërsa uji rrethues më i cekët është një nuancë më e çelët e blusë, si irisa."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pyetje të Shpeshta",
+    "items": [
+      {
+        "question": "A mund të notoni në Syrin e Kaltër?",
+        "answer": "Noti është zyrtarisht i ndaluar për të ruajtur ekosistemin natyror, megjithëse disa vizitorë ende hidhen. Uji është gjithashtu jashtëzakonisht i ftohtë (10°C)."
+      },
+      {
+        "question": "A ka një tarifë hyrjeje?",
+        "answer": "Po, ka një tarifë të vogël hyrjeje për të hyrë në rezervën natyrore, dhe një tarifë parkimi nëse sillni një automjet."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informacion Themelor",
+    "officialName": "Emri Zyrtar",
+    "officialNameValue": "Syri i Kaltër",
+    "type": "Lloji i Atraksionit",
+    "typeValue": "Rezervë Natyrore",
+    "country": "Shteti",
+    "countryValue": "Shqipëri",
+    "city": "Qyteti",
+    "cityValue": "Sarandë",
+    "googleRating": "Vlerësimi në Google",
+    "googleRatingValue": "4.4 (14,788)",
+    "address": "Adresa",
+    "addressValue": "Sarande SHA22, Saranda 9701 Shqipëri",
+    "telephone": "Telefoni",
+    "telephoneValue": "N/A",
+    "accessibility": "Aksesueshmëria",
+    "accessibilityValue": "E pjesshme",
+    "plusCode": "Kodi Plus",
+    "plusCodeValue": "WV8P+RQ Muzinë, Shqipëri"
+  },
+  "hours": {
+    "title": "Orari i Vizitave",
+    "park": "Aksesi në Rezervë",
+    "parkTime": "Zakonisht e hapur nga 7:00 AM deri në 7:00 PM",
+    "bestTime": "Koha më e mirë për të vizituar",
+    "bestTimeSpring": "Pranverë: Gjelbërim i harlisur dhe më pak turma",
+    "bestTimeSummer": "Verë: E shkëlqyeshme për t'u freskuar, por shumë e mbushur me njerëz",
+    "bestTimeAutumn": "Vjeshtë: Gjethnajë e bukur dhe mot i këndshëm",
+    "bestTimeWinter": "Dimër: E qetë, por shumë objekte mund të jenë të mbyllura",
+    "tip": "Vizitoni herët në mëngjes për të shmangur turmat e mëdha dhe për të shijuar atmosferën paqësore."
+  },
+  "tickets": {
+    "title": "Informacion mbi Pranimin",
+    "park": "Tarifa e Hyrjes",
+    "parkPrice": "Rreth 50 Lek për person",
+    "parking": "Parkimi",
+    "parkingPrice": "Rreth 200 Lek për automjet",
+    "guided": "Ture të Guiduara",
+    "guidedPrice": "Të disponueshme nga Saranda"
+  },
+  "transport": {
+    "title": "Si të arrini këtu",
+    "fromCenter": "Nga Saranda",
+    "fromCenterDesc": "Rreth 30-40 minuta me makinë në brendësi drejt Gjirokastrës.",
+    "fromStation": "Nga Gjirokastra",
+    "fromStationDesc": "Rreth 45-60 minuta me makinë drejt Sarandës.",
+    "fromAirport": "Nga Aeroporti i Tiranës",
+    "fromAirportDesc": "Rreth 4-5 orë me makinë në jug.",
+    "publicTransport": "Transporti Publik",
+    "publicTransportDesc": "Ju mund të merrni një autobus që udhëton midis Sarandës dhe Gjirokastrës dhe të kërkoni nga shoferi t'ju zbresë në kthesën për Syrin e Kaltër.",
+    "walking": "Në këmbë",
+    "walkingDesc": "Nga kthesa ose zona e parkimit, ka një shëtitje piktoreske për të arritur në burimin aktual.",
+    "driving": "Me makinë",
+    "drivingDesc": "Mënyra më e përshtatshme për të arritur në rezervë. Ka një zonë parkimi afër hyrjes."
+  },
+  "route": {
+    "title": "Rruga e Rekomanduar",
+    "overview": "Zbuloni bukurinë natyrore të burimit.",
+    "steps": [
+      "Arritja në zonën e parkimit",
+      "Ecja përgjatë shtegut piktoresk",
+      "Admirimi i burimit të Syrit të Kaltër",
+      "Relaksimi në kafenetë aty pranë",
+      "Një shëtitje e shkurtër në pyllin përreth"
+    ]
+  },
+  "gallery": {
+    "title": "Galeria e Fotove",
+    "subtitle": "Bukuria e Syrit të Kaltër",
+    "captions": [
+      "Syri i Kaltër",
+      "Ujë kristal i pastër",
+      "Pyll i harlisur",
+      "Rezervë natyrore",
+      "Detaje të burimit",
+      "Natyra përreth",
+      "Lumi Bistricë",
+      "Platforma e shikimit",
+      "Pamje piktoreske",
+      "Nuancat e ujit",
+      "Pemë dhe ujë",
+      "Qendër e thellë blu",
+      "Peizazh i bukur",
+      "Mrekulli natyrore",
+      "Burim i pastër",
+      "Shtegu i pyllit",
+      "Mjedis i qetë"
+    ],
+    "viewAll": "Shiko në Google Maps",
+    "showAll": "Shfaq të gjitha fotot",
+    "showLess": "Shfaq më pak"
+  },
+  "reviews": {
+    "title": "Vlerësimet e Vizitorëve",
+    "declaration": "Vlerësimet mund të shikohen përmes Google Maps.",
+    "moreReviews": "Shiko më shumë vlerësime në Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "Bukuri natyrore absolutisht mahnitëse. Ngjyrat e ujit janë të pabesueshme!"
+      },
+      {
+        "name": "Mark T.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "Shumë e bukur, por bëhet mjaft e mbushur me njerëz pasdite. Ejani herët!"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Një vend magjik. Uji i ftohtë është freskues dhe pylli përreth është i qetë."
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "date": "2026-02-05",
+        "text": "Vendi i mrekullueshëm për fotografi. Ecja nga parkingu është shumë e këndshme."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Vendndodhja në Hartë",
+    "subtitle": "Sarande SHA22, Saranda 9701 Shqipëri",
+    "openMaps": "Shiko në Google Maps"
+  },
+  "footer": {
+    "brandName": "The Blue Eye",
+    "brandSubtitle": "Syri i Kaltër",
+    "rights": "© 2026 Projekti i Pavarur i Kërkimit të Turizmit · Të gjitha të drejtat e rezervuara.",
+    "privacy": "Politika e Privatësisë",
+    "terms": "Kushtet e Shërbimit",
+    "cookies": "Cilësimet e Cookies",
+    "officialResourcesTitle": "Burimet Zyrtare & Informacioni",
+    "officialLinks": {
+      "akt": "Agjencia Kombëtare e Turizmit e Shqipërisë",
+      "iktk": "Instituti Kombëtar i Trashëgimisë Kulturore",
+      "arkiva": "Drejtoria e Përgjithshme e Arkivave",
+      "asig": "Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG)",
+      "visa": "Ministria për Evropën dhe Punët e Jashtme - Politika e Vizave"
+    },
+    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i një pale të tretë. Ne nuk jemi të lidhur me qeverinë lokale ose agjenci të tjera zyrtare."
+  },
+  "officialManagement": {
+    "title": "Rreth Syrit të Kaltër",
+    "text": "Syri i Kaltër është një rezervë natyrore e mbrojtur në Shqipëri, e famshme për veçoritë e saj unike gjeologjike dhe bukurinë mahnitëse."
+  },
+  "privacy": {
+    "title": "Politika e Privatësisë",
+    "lastUpdated": "Përditësimi i fundit: Maj 2026",
+    "sections": [
+      {
+        "heading": "Mbledhja e Informacionit",
+        "content": "Kur vizitoni faqen tonë të internetit, ne mund të mbledhim automatikisht informacione bazë në lidhje me pajisjen tuaj, shfletuesin dhe sjelljen e shfletimit për të ofruar një përvojë më të mirë përdoruesi. Ky informacion nuk përmban identitetin tuaj personal."
+      },
+      {
+        "heading": "Përdorimi i Cookies",
+        "content": "Ne përdorim cookies për të analizuar trafikun e faqes në internet dhe për të optimizuar përmbajtjen e faqes. Ju mund t'i menaxhoni preferencat tuaja në çdo kohë përmes opsionit Cilësimet e Cookies në fund të faqes sonë."
+      },
+      {
+        "heading": "Siguria dhe Mbrojtja e të Dhënave",
+        "content": "Ne jemi të përkushtuar të mbrojmë sigurinë e të dhënave tuaja të privatësisë dhe nuk do t'i shesim, japim me qira ose tregtojmë të dhënat tuaja të shfletimit te organizata tregtare të palëve të treta."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Kushtet e Shërbimit",
+    "lastUpdated": "Përditësimi i fundit: Maj 2026",
+    "sections": [
+      {
+        "heading": "Përmbajtja dhe Përdorimi i Uebsajtit",
+        "content": "Kjo faqe interneti ofron udhëtime, transport dhe informacione historike rreth Syrit të Kaltër. E gjithë përmbajtja është vetëm për referencë. Orët aktuale të hapjes dhe informacioni i atraksioneve mund të ndryshojnë në çdo kohë; ju lutemi referojuni njoftimeve zyrtare."
+      },
+      {
+        "heading": "Pronësia Intelektuale",
+        "content": "Teksti, imazhet dhe modelet në këtë faqe interneti mbrohen nga e drejta e autorit. Pa leje të shprehur me shkrim, askush nuk mund të përdorë përmbajtjen e faqes në internet për qëllime tregtare."
+      },
+      {
+        "heading": "Mohim Përgjegjësie",
+        "content": "Ne përpiqemi të sigurojmë saktësinë dhe afatin kohor të informacionit, por nuk marrim përgjegjësi ligjore për vonesat e udhëtimit ose humbjet e shkaktuara drejtpërdrejt ose tërthorazi nga përdorimi i informacionit të dhënë në këtë faqe interneti."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cilësimet e Cookies",
+    "description": "Menaxhoni preferencat tuaja të cookies.",
+    "essential": {
+      "title": "Cookies Thelbësore",
+      "description": "Të nevojshme për funksionalitetin bazë të faqes në internet dhe nuk mund të çaktivizohen.",
+      "badge": "Gjithmonë Aktive"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Na ndihmoni të kuptojmë sjelljen e vizitorëve dhe të përmirësojmë faqen e internetit."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Përdoret për ndjekjen ndër-faqe dhe ofrimin e reklamave të personalizuara."
+    },
+    "save": "Ruaj Preferencat",
+    "saved": "Preferencat u ruajtën!"
+  }
+}
