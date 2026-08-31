@@ -1,10 +1,11 @@
 import { useTranslations } from 'next-intl';
 import { useMessages } from 'next-intl';
+import { siteConfig } from '@/config/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6';
+  const mapsLink = messages?.hero?.mapsLink || siteConfig.mapsUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -24,18 +25,18 @@ export default function MapEmbed() {
           style={{ border: '1px solid var(--map-border)' }}
         >
           {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
+            Google Maps attribution is intentionally left visible: hiding it
+            would breach the Google Maps Platform terms of service.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=The+Blue+Eye+Albania&output=embed"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Trg Kralja Tomislava"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - The Blue Eye (Syri i Kaltër), Saranda, Albania"
           />
         </div>
 

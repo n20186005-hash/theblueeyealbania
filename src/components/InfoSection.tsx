@@ -6,7 +6,7 @@ export default function InfoSection() {
   const sections = (messages?.knowledge?.sections || []) as Array<{ id: string; title: string; content: string }>;
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="about" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6 text-center"
@@ -22,7 +22,13 @@ export default function InfoSection() {
               key={section.id} 
               className={`flex flex-col md:flex-row gap-6 items-start ${index % 2 !== 0 ? 'md:flex-row-reverse' : ''}`}
             >
-              <div className="flex-1 w-full bg-white/5 p-8 rounded-2xl border border-white/10 shadow-sm hover:shadow-md transition-shadow">
+              <div
+                className="flex-1 w-full p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow"
+                style={{
+                  background: 'var(--bg-tertiary)',
+                  border: '1px solid var(--border-color)',
+                }}
+              >
                 <div className="flex items-center gap-4 mb-4">
                   <div className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg" style={{ background: 'var(--accent)', color: 'white' }}>
                     {index + 1}

@@ -1,27 +1,30 @@
 {
   "meta": {
-    "title": "Syri i Kaltër – Sarandë, Shqipëri",
-    "description": "Udhëzues i plotë udhëtimi për Syrin e Kaltër në Sarandë. Mësoni rreth kësaj rezerve natyrore, duke përfshirë vendndodhjen, pamjet, qasjen dhe informacionin për vizitorët."
+    "title": "Syri i Kaltër (The Blue Eye) Shqipëri: Udhëzues 2026, Biletat & Vendndodhja",
+    "description": "Planifikoni vizitën te Syri i Kaltër pranë Sarandës, Shqipëri. Info e përditësuar 2026 për tarifat e hyrjes, orarin, rregullat e notit, si të arrini dhe hartën."
   },
   "header": {
     "home": "Kreu",
+    "facilities": "Shërbime",
+    "history": "Historia",
     "gallery": "Galeria",
     "reviews": "Vlerësime",
     "map": "Harta",
-    "backToHome": "Kthehu te Kreu"
+    "backToHome": "Kthehu te Kreu",
+    "backToGuide": "Udhëzuesi i Syrit të Kaltër në Sarandë"
   },
   "hero": {
-    "title": "The Blue Eye",
-    "subtitle": "Syri i Kaltër",
+    "title": "Syri i Kaltër (The Blue Eye)",
+    "subtitle": "Rezervë natyrore & burim karstik pranë Sarandës, Shqipëri",
     "rating": "4.4",
-    "reviewCount": "14,788 vlerësime",
+    "reviewCount": "16,481 vlerësime",
     "type": "Rezervë Natyrore",
     "openMaps": "Shiko në Google Maps",
     "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
   },
   "intro": {
     "title": "Zbuloni Syrin e Kaltër",
-    "description": "Syri i Kaltër është një burim uji mahnitës dhe fenomen natyror që ndodh pranë Muzinës në Qarkun e Vlorës, Shqipëri. Një atraksion i popullarizuar turistik, uji i pastër blu i lumit buron nga një pishinë mahnitëse, më shumë se pesëdhjetë metra e thellë. Zhytësit kanë zbritur deri në pesëdhjetë metra, por ende nuk është e qartë se cila është thellësia e vërtetë e vrimës karstike.",
+    "description": "Syri i Kaltër (në anglisht: The Blue Eye; në gjermanisht: Blue Eye Albanien) është një burim uji mahnitës dhe fenomen natyror që ndodh pranë Muzinës në Qarkun e Vlorës, Shqipëri. Një atraksion i popullarizuar turistik, uji i pastër blu i lumit buron nga një pishinë mahnitëse, më shumë se pesëdhjetë metra e thellë. Zhytësit kanë zbritur deri në pesëdhjetë metra, por ende nuk është e qartë se cila është thellësia e vërtetë e vrimës karstike.",
     "visitGuide": {
       "title": "Këshilla për vizitë",
       "items": [
@@ -53,8 +56,367 @@
         "id": "phenomenon",
         "title": "Fenomen Natyror",
         "content": "Burimi i detyrohet emrit të tij pamjes së tij të habitshme: qendra e thellë është një blu e errët, si bebëza e një syri, ndërsa uji rrethues më i cekët është një nuancë më e çelët e blusë, si irisa."
+      },
+      {
+        "id": "names",
+        "title": "Emrat Nëpër Botë",
+        "content": "Burimi njihet si Syri i Kaltër në shqip, The Blue Eye ose Blue Eye Albania në anglisht, Blue Eye Albanien në udhëzuesit gjermanë të udhëtimit dhe 蓝眼泉 (Lán Yǎn Quán) në kinezisht. Të gjithë këta emra i referohen të njëjtit burim karstik pranë Muzinës, rreth 25 km nga Saranda."
+      },
+      {
+        "id": "nearby",
+        "title": "Atraksionet Aty Pranë",
+        "content": "Ndërsa vizitoni Syrin e Kaltër, udhëtarët mund të eksplorojnë lehtësisht edhe pika të tjera kryesore të Shqipërisë së Jugut, duke përfshirë plazhet e Ksamilit dhe qytetin antik të Butrintit, i cili është pjesë e trashëgimisë botërore të UNESCO-s, të dy brenda një udhëtimi të shkurtër me makinë nga Saranda. Qyteti historik i Gjirokastrës, gjithashtu pjesë e trashëgimisë botërore të UNESCO-s, ndodhet rreth gjysmë ore më tej në të njëjtën rrugë."
+      },
+      {
+        "id": "hydrology",
+        "title": "Nga vjen uji",
+        "content": "Shiu dhe shkrirja e borës që bien në masivin e Mali i Gjerë zhduken në gëlqerorin e çarë dhe udhëtojnë nëpër kanale karstike, përpara se të ngrihen përsëri nën presion në burim, rreth 152 metra mbi nivelin e detit. Prurja mesatare është rreth 18,400 litra në sekondë dhe uji qëndron afër 10°C gjatë gjithë vitit — aq i ftohtë sa rrjedha ka qenë e përshtatshme për rritjen e troftës në luginën e Bistricës."
+      },
+      {
+        "id": "ecology",
+        "title": "Pylli dhe bota e gjallë",
+        "content": "Rezerva mbron një pyll karakteristik karstik: lisat dhe rrapet formojnë një kube mbi burim, ndërsa shelgjet dhe verrat zbresin drejt buzës së ujit. Shpendët janë ata të pyjeve lumore të Shqipërisë së Jugut, ndërsa uji i ftohtë dhe i pasur me oksigjen kufizon speciet ujore që mund të jetojnë këtu. Mbulesa e dendur e drurëve është edhe arsyeja pse burimi mbetet në hije dhe i freskët edhe në gusht."
+      },
+      {
+        "id": "conservation",
+        "title": "Mbrojtja dhe presioni i vizitorëve",
+        "content": "Rreth 180 hektarë përreth burimit u shpallën Monument Natyre (kategoria III e IUCN) në vitin 1996 dhe administrohen brenda sistemit kombëtar të zonave të mbrojtura të Shqipërisë. Menaxhimi i përditshëm synon mbajtjen e vizitorëve në shtigje të caktuara, dekurajimin e notit në vetë burimin dhe kufizimin e mbeturinave e të rrezikut nga zjarri. Thatësira dhe zjarret verore — përfshirë atë të vitit 2017 — janë dy presionet që përgjegjësit e zonës i ndjekin më nga afër."
       }
     ]
+  },
+  "toc": {
+    "title": "Në këtë faqe",
+    "items": [
+      { "id": "intro", "label": "Përmbledhje" },
+      { "id": "about", "label": "Rreth burimit" },
+      { "id": "facts", "label": "Të dhëna kryesore" },
+      { "id": "hours", "label": "Orari & hyrja" },
+      { "id": "weather", "label": "Moti" },
+      { "id": "swimming", "label": "Rregullat e notit" },
+      { "id": "facilities", "label": "Shërbimet" },
+      { "id": "history", "label": "Gjeologjia & historia" },
+      { "id": "legends", "label": "Legjenda & tregime" },
+      { "id": "transport", "label": "Si të arrini" },
+      { "id": "route", "label": "Rruga e sugjeruar" },
+      { "id": "gallery", "label": "Galeria" },
+      { "id": "reviews", "label": "Vlerësimet" },
+      { "id": "faq", "label": "Pyetje të shpeshta" },
+      { "id": "map", "label": "Harta" },
+      { "id": "sources", "label": "Burimet zyrtare" }
+    ]
+  },
+  "facilities": {
+    "title": "Shërbimet për vizitorët",
+    "subtitle": "Çfarë gjendet në vend, çfarë do të gjeni në qytetet më të afërta dhe çfarë është mirë të planifikoni përpara se të niseni.",
+    "note": "Ky udhëzues është i pavarur dhe jokomercial. Ne përshkruajmë vetëm llojet e shërbimeve — asnjë biznes, markë apo operator nuk përmendet, renditet apo rekomandohet.",
+    "levels": {
+      "onsite": "Në vend",
+      "nearby": "Në qytetet afërta",
+      "planning": "Planifikoni"
+    },
+    "groups": [
+      {
+        "id": "onsite",
+        "title": "Shërbimet në vend",
+        "items": [
+          {
+            "id": "restroom",
+            "name": "Tualete publike",
+            "desc": "Tualete publike gjenden pranë hyrjes dhe në disa pika ushqimore gjatë shtegut. Standardet janë bazike, ndonjëherë kërkohet një tarifë e vogël dhe në mesditë gjatë verës krijohen radhë. Mbani me vete peceta dhe dezinfektues duarsh.",
+            "level": "onsite"
+          },
+          {
+            "id": "parking",
+            "name": "Parkimi",
+            "desc": "Një parking me pagesë shërben hyrjen e rezervës. Kapaciteti është i kufizuar dhe mbushet gjatë fundjavave të verës, ndaj mbërritja përpara orës 10:00 rrit ndjeshëm shanset për vend. Autobusët dhe mjetet e mëdha përdorin vende të veçanta.",
+            "level": "onsite"
+          },
+          {
+            "id": "trail",
+            "name": "Shtigje & platforma shikimi",
+            "desc": "Një shteg kryesisht i sheshtë prej rreth 1.5–2 km lidh parkingun me burimin. Platforma druri dhe parmakë rrethojnë ujin, ndërsa stola janë vendosur midis drurëve.",
+            "level": "onsite"
+          },
+          {
+            "id": "shade",
+            "name": "Vende pushimi & hije",
+            "desc": "Stola dhe vende me hije janë shpërndarë gjatë shtegut, por disa pjesë janë të ekspozuara. Në korrik dhe gusht, një kapele dhe një shishe ujë e bëjnë ecjen shumë më të këndshme.",
+            "level": "onsite"
+          },
+          {
+            "id": "waste",
+            "name": "Mbeturinat & riciklimi",
+            "desc": "Kosha janë vendosur gjatë shtegut kryesor, por në ditët e ngarkuara tejmbushen. Rezerva nuk ka kapacitet të përballojë mbeturina, ndaj merrni me vete çfarë sillni.",
+            "level": "onsite"
+          },
+          {
+            "id": "water",
+            "name": "Ujë i pijshëm",
+            "desc": "Burimi duket i pastër, por është ujë i patrajtuar nga një pellg karstik që furnizohet nga i gjithë masivi dhe nuk monitorohet si ujë i pijshëm. Sillni shishet tuaja në vend që të mbushni në burim.",
+            "level": "onsite"
+          }
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Ushqim & pije",
+        "items": [
+          {
+            "id": "restaurant",
+            "name": "Restorante & kafene",
+            "desc": "Pranë burimit dhe gjatë shtegut funksionojnë disa restorante dhe kafene të thjeshta që shërbejnë mish të pjekur në skarë, sallata, kafe dhe gatime tradicionale shqiptare. Shumica punojnë sezonalisht dhe mbyllen jashtë muajve të verës.",
+            "level": "onsite"
+          },
+          {
+            "id": "fish",
+            "name": "Trofta vendore",
+            "desc": "Fermat e troftës në ujë të ftohtë gjatë Bistricës përdorin ujë nga i njëjti sistem karstik dhe trofta është gatimi që lidhet më shpesh me luginën. Oferta varet nga sezoni dhe nga ajo që është në dispozicion.",
+            "level": "nearby"
+          },
+          {
+            "id": "picnic",
+            "name": "Vende për piknik",
+            "desc": "Vende me hije pranë përroit përdoren për piknik. Zjarri i hapur nuk ka vend brenda një monumenti të mbrojtur — përdorni zonat e caktuara të ushqimit dhe merrni me vete ambalazhet.",
+            "level": "onsite"
+          },
+          {
+            "id": "dietary",
+            "name": "Kërkesa të veçanta ushqimore",
+            "desc": "Zakonisht gjenden perime të pjekura në skarë, sallata dhe djathë, por zgjedhje vegane, halal apo pa gluten janë të kufizuara në një zonë rurale. Udhëtarët me kërkesa strikte e kanë më mirë të hanë në Sarandë përpara se të nisen.",
+            "level": "planning"
+          }
+        ]
+      },
+      {
+        "id": "stay",
+        "title": "Akomodimi & furnizimet",
+        "items": [
+          {
+            "id": "accommodation",
+            "name": "Akomodimi",
+            "desc": "Brenda monumentit të natyrës nuk ka fjetje. Hotelet dhe shtëpitë pritëse më të afërta janë në Sarandë dhe Ksamil në bregdet, ose në Gjirokastër dhe Delvinë në brendësi; disa shtëpi pritëse fshati funksionojnë në zonat midis tyre.",
+            "level": "nearby"
+          },
+          {
+            "id": "camping",
+            "name": "Kamping & qëndrim gjatë natës",
+            "desc": "Kampingu i egër dhe qëndrimi gjatë natës nuk janë të përshtatshme brenda një zone të mbrojtur. Nëse dëshironi të flini jashtë, kërkoni kampingje të organizuara në bregdet.",
+            "level": "planning"
+          },
+          {
+            "id": "grocery",
+            "name": "Dyqane & farmaci",
+            "desc": "Pranë burimit nuk ka supermarket apo farmaci. Në sezon, kioskat shesin pije dhe ushqime të lehta me çmime më të larta se në qytet, ndaj furnizohuni me ujë, krem mbrojtës dhe ilaçe në Sarandë ose Gjirokastër.",
+            "level": "planning"
+          },
+          {
+            "id": "souvenir",
+            "name": "Suvenire & produkte vendore",
+            "desc": "Tezgat sezonale pranë hyrjes shesin kartolina, magnete dhe mjaltë apo bimë mjekësore vendore. Cilësia dhe çmimet ndryshojnë, dhe nuk keni asnjë detyrim të blini.",
+            "level": "onsite"
+          }
+        ]
+      },
+      {
+        "id": "vehicle",
+        "title": "Automjetet & furnizimi me karburant",
+        "items": [
+          {
+            "id": "fuel",
+            "name": "Pika karburanti",
+            "desc": "Stacionet e karburantit gjenden gjatë rrugës Sarandë–Gjirokastër dhe në periferi të Sarandës, por jo pranë burimit. Mbushni rezervuarin përpara se të hyni në brendësi, sidomos nëse planifikoni të ktheheni pas errësirës.",
+            "level": "nearby"
+          },
+          {
+            "id": "ev",
+            "name": "Karikimi për automjete elektrike",
+            "desc": "Infrastruktura publike e karikimit në Shqipërinë e Jugut është ende e rrallë dhe besueshmëria e saj ndryshon. Karikoni në Sarandë ose në një qytet më të madh përpara nisjes dhe konsiderojeni Syrin e Kaltër si destinacion pa karikues.",
+            "level": "planning"
+          },
+          {
+            "id": "rental",
+            "name": "Qira makinash & skuterash",
+            "desc": "Qiraja e makinave, skuterave dhe skuterave elektrikë është e zakonshme në Sarandë. Skuteri përshtatet për rrugën e shkurtër bregdetare, por rruga në brendësi ka kthesa, pika të verbra dhe autobusë turistikë — drejtoni me kujdes dhe mbani helmetë.",
+            "level": "nearby"
+          },
+          {
+            "id": "payment",
+            "name": "Para në dorë & karta",
+            "desc": "Tarifat e hyrjes dhe parkimit, kioskat dhe restorantet e vogla shpesh pranojnë vetëm para në dorë. Leku shqiptar (ALL) është i domosdoshëm dhe kartëmonedhat e vogla e bëjnë më të lehtë pagesën për tualete, parkim dhe bakshish.",
+            "level": "planning"
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Shërbime & siguri",
+        "items": [
+          {
+            "id": "firstaid",
+            "name": "Ndihma mjekësore",
+            "desc": "Pranë burimit nuk ka pikë të ndihmës së parë apo farmaci. Farmacitë dhe shërbimet mjekësore më të afërta janë në Sarandë. Sillni me vete ilaçet personale, fasha dhe sprej kundër insekteve.",
+            "level": "nearby"
+          },
+          {
+            "id": "signal",
+            "name": "Sinjali celular & Wi-Fi",
+            "desc": "Mbulimi në luginë është i çrregullt dhe të dhënat mund të bien gjatë rrugës. Disa kafene ofrojnë Wi-Fi, por mos u mbështetni në të — shkarkoni hartat dhe biletat përpara se të dilni nga qyteti.",
+            "level": "planning"
+          },
+          {
+            "id": "accessibility",
+            "name": "Aksesueshmëria",
+            "desc": "Shtegu është kryesisht i sheshtë dhe i fortë, ndërsa pjesa e fundit drejt platformës së shikimit ka shkallë dhe terren të pabarabartë. Vizitorët me lëvizshmëri të kufizuar mund të preferojnë të zbresin pranë hyrjes dhe të ecin ngadalë.",
+            "level": "onsite"
+          },
+          {
+            "id": "family",
+            "name": "Fëmijët & vizitorët e moshuar",
+            "desc": "Buzë ujit ka parmakë, por terreni mund të jetë i rrëshqitshëm dhe uji mbahet rreth 10°C gjatë gjithë vitit. Mbani fëmijët pranë jush; këpucët e forta ndihmojnë në pjesët me zhavorr.",
+            "level": "onsite"
+          },
+          {
+            "id": "drone",
+            "name": "Dronët & fotografia",
+            "desc": "Përdorimi rekreativ i dronëve mbi zonat e mbrojtura të Shqipërisë është i kufizuar dhe zakonisht kërkon autorizim. Trekëmbëshi është në rregull në platforma — ju lutemi lini shtigjet e ngushta të lira për vizitorët e tjerë.",
+            "level": "planning"
+          }
+        ]
+      }
+    ]
+  },
+  "history": {
+    "title": "Gjeologjia, Historia & Mbrojtja",
+    "subtitle": "Si u formua burimi dhe si erdhi deri te mbrojtja e tij.",
+    "keyFactsTitle": "Të dhëna kryesore",
+    "facts": [
+      { "label": "Lartësia e burimit", "value": "152 m" },
+      { "label": "Prurja mesatare", "value": "≈18,400 litra/sekondë" },
+      { "label": "Zona e mbrojtur", "value": "1.8 km² (180 ha)" },
+      { "label": "Kategoria IUCN", "value": "III — Monument Natyre" },
+      { "label": "E shpallur", "value": "1996" },
+      { "label": "Thellësia e eksploruar", "value": "50 m; fundi i panjohur" },
+      { "label": "Lumi Bistricë", "value": "≈25 km deri në Detin Jon" },
+      { "label": "Temperatura e ujit", "value": "≈10 °C gjatë gjithë vitit" }
+    ],
+    "events": [
+      {
+        "year": "Kohë të thella",
+        "title": "Një rezervuar gëlqeror",
+        "content": "Shiu dhe bora që bien në masivin e Mali i Gjerë depërtojnë në gëlqerorin e çarë. Uji pak acid gradualisht i zgjeron çarjet në kanale, duke ndërtuar pellgun karstik që furnizon edhe sot burimin."
+      },
+      {
+        "year": "E vazhdueshme",
+        "title": "Një ngritje artesiane",
+        "content": "Uji ngrihet nën presion nëpërmjet një boshti vertikal dhe derdhet rreth 152 m mbi nivelin e detit. Rrjedha e fortë ngjitëse është arsyeja pse qendra duket pothuajse e zezë dhe pse zhytësit e kanë të vështirë të zbresin në bosht."
+      },
+      {
+        "year": "Përdorimi vendor",
+        "title": "Burimet e Bistricës",
+        "content": "Rrjedha formon Bistricën, një lumë prej rreth 25 km që derdhet në Detin Jon në jug të Sarandës. Uji i ftohtë dhe i qëndrueshëm e ka bërë luginën të përshtatshme për rritjen e troftës dhe për përdorim hidroenergjetik në rrjedhën e poshtme."
+      },
+      {
+        "year": "1996",
+        "title": "Shpallet Monument Natyre",
+        "content": "Zona u shpall Monument Natyre sipas kategorisë III të IUCN, duke mbrojtur rreth 180 hektarë pyll me lisa dhe rrapë përreth burimit brenda sistemit të zonave të mbrojtura të Shqipërisë."
+      },
+      {
+        "year": "2004",
+        "title": "Vera kur u tha",
+        "content": "Në verën e vitit 2004 burimi u tha përkohësisht — një kujtesë e qartë se sistemet karstike reagojnë shpejt ndaj thatësirës dhe ndaj presionit mbi pellgun që i furnizon."
+      },
+      {
+        "year": "2017",
+        "title": "Dëmet nga zjarri",
+        "content": "Një pjesë e pyllit përreth u dogj nga zjarret e verës së vitit 2017. Rigjenerimi ka qenë gradual dhe ngjarja përmendet shpesh në diskutimet vendore mbi rrezikun nga zjarri dhe menaxhimin e vizitorëve."
+      },
+      {
+        "year": "Sot",
+        "title": "Vizitat dhe mbrojtja në ekuilibër",
+        "content": "Numri i vizitorëve është rritur ndjeshëm gjatë dekadës së fundit. Menaxhimi tani synon kanalizimin e vizitorëve në shtigje të caktuara, mbrojtjen e burimit nga shqetësimi dhe ruajtjen e cilësisë së ujit që e bën këtë vend të veçantë."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Legjenda & Tregime Vendore",
+    "disclaimer": "Tregimet më poshtë i përkasin traditës gojore vendore. Ato janë shënuar këtu si trashëgimi kulturore, jo si fakt shkencor apo historik.",
+    "items": [
+      {
+        "id": "serpent",
+        "kind": "Tregim popullor",
+        "title": "Syri i gjarpërit gjigant",
+        "content": "Një tregim i rrëfyer në fshatrat poshtë Mali i Gjerë përshkruan një gjarpër gjigant (heshdërha) që doli nga deti pranë Sarandës së sotme, hëngri njerëz në një burim në Delvinë dhe më pas tufa të tëra në mal. Një plak ngarkoi një gomar me kashtë, i vuri zjarrin dhe e la bishën ta gëlltiste. Në dhimbje, gjarpri kaloi shpatin e malit — duke lënë vijat paralele të drurëve që thuhet se janë ende të dukshme — dhe aty ku ra, syri i tij blu i ra në tokë dhe uji filloi të rrjedhë. Burimi, thotë tregimi, është ai sy që vazhdon të qajë."
+      },
+      {
+        "id": "dragon",
+        "kind": "Variant",
+        "title": "Versioni me dragua",
+        "content": "Versione të tjera të së njëjtës histori e zëvendësojnë gjarpërin me një dragua. Të dyja krijesat i përkasin një shtrese më të vjetër besimi: studiues të folklorit shqiptar, veçanërisht Robert Elsie, theksojnë se gjarpri ishte një simbol i rëndësishëm për ilirët e lashtë, dhe motive dragoi ruhen në relieve guri në objektet fetare të zonës Delvinë–Sarandë."
+      },
+      {
+        "id": "name",
+        "kind": "Emërtimi",
+        "title": "Pse quhet sy",
+        "content": "Emri është përshkrues dhe jo mitik: qendra e thellë duket si bebëzë e errët, ndërsa buzë e cekët si irisa më e çelët. Shqipja Syri i Kaltër do të thotë thjesht syri i kaltër, dhe shumica e gjuhëve të tjera e përkthejnë ose e transliterojnë drejtpërdrejt këtë figurë."
+      },
+      {
+        "id": "bottomless",
+        "kind": "Besim vendor",
+        "title": "Burimi pa fund",
+        "content": "Për shkak se zhytësit nuk kanë arritur kurrë në fundin e boshtit, një besim vendor thotë se burimi është pa fund ose i lidhur me detin. Nga pikëpamja hidrologjike është një kanal karstik që furnizohet nga brendësia e masivit: thellësia e vërtetë është e pamaturuar, jo e pafundme."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Moti në burim",
+    "subtitle": "Kushtet aktuale dhe parashikimi për shtatë ditë në Syrin e Kaltër (Muzinë), për të planifikuar si të visheni, kur të mbërrini dhe kur është drita më e mirë.",
+    "current": "Tani",
+    "feelsLike": "Ndihet si",
+    "humidity": "Lagështia",
+    "wind": "Era",
+    "precipitation": "Reshjet",
+    "sunrise": "Lindja e diellit",
+    "sunset": "Perëndimi i diellit",
+    "forecast": "Parashikimi 7-ditor",
+    "today": "Sot",
+    "updated": "Përditësuar",
+    "source": "Të dhënat: Open-Meteo (modelet ECMWF / DWD), për koordinatat e burimit. Moti në këtë luginë mund të ndryshojë shpejt — kontrolloni një parashikim zyrtar përpara se të niseni.",
+    "loading": "Duke ngarkuar motin aktual…",
+    "error": "Të dhënat e motit nuk janë për momentin të disponueshme.",
+    "errorHint": "Përdorni lidhjet në seksionin Burimet për një parashikim zyrtar.",
+    "codes": {
+      "clear": "Qiell i kthjellët",
+      "mainlyClear": "Kryesisht kthjellët",
+      "partlyCloudy": "Pjesërisht me re",
+      "overcast": "I mbuluar me re",
+      "fog": "Mjegull",
+      "drizzle": "Vesë",
+      "rain": "Shi",
+      "snow": "Borë",
+      "showers": "Shi me intervale",
+      "thunderstorm": "Stuhi me bubullima",
+      "thunderstormHail": "Stuhi me bubullima dhe breshër"
+    }
+  },
+  "swimming": {
+    "title": "Rregullat e Notit në Syrin e Kaltër",
+    "subtitle": "Një nga pyetjet më të kërkuara për Syrin e Kaltër: mund të hyni në ujë? Ja qëndrimi zyrtar, çfarë ndodh në praktikë dhe arsyetimi i rregullit.",
+    "status": "Noti i ndaluar",
+    "official": "Noti nuk lejohet në burim. Syri i Kaltër është Monument Natyre i mbrojtur (kategoria III e IUCN) dhe tabelat në vend shprehin se hyrja në ujë është e ndaluar. Rregulli mbron si vizitorët ashtu edhe sistemin karstik të ujit.",
+    "realityTitle": "Çfarë ndodh në praktikë",
+    "reality": "Pavarësisht ndalimit, disa vizitorë hyjnë në ujë në pasditet e nxehta të verës. Nuk e rekomandojmë: përtej vetë rregullit, uji qëndron rreth 10 °C gjatë gjithë vitit, rryma ngjitëse është e fortë dhe boshti nuk është matur kurrë plotësisht — zhytësit kanë arritur 50 m pa prekur fundin.",
+    "reasonsTitle": "Pse noti është i ndaluar",
+    "reasons": [
+      "Burimi është fillimi i lumit Bistricë dhe pjesë e një pellgu karstik: kremi mbrojtës, sapuni dhe vajrat e trupit hyjnë drejtpërdrejt në ujë dhe nuk mund të filtrohen.",
+      "Në rreth 10 °C, uji mund të shkaktojë goditje nga i ftohti, dhe presioni ngjitës e bën notin shumë më të vështirë se ç'duket nga platforma.",
+      "Thellësia e vërtetë është e panjohur — rryma e fortë ngjitëse ka penguar deri tani një matje të plotë të boshtit.",
+      "Bregjet janë të brishta dhe gërryhen shpejt kur njerëzit dalin nga platformat e shënuara."
+    ],
+    "alternativeTitle": "Ku të notoni në vend të tij",
+    "alternative": "Për të notuar, shkoni në plazhet publike të bregdetit: Ksamili dhe bregdeti i Sarandës janë mundësitë më të afërta, rreth 30–45 minuta me rrugë.",
+    "linkTickets": "Tarifa e hyrjes & çmimet e biletave",
+    "linkTransport": "Si të arrini te Syri i Kaltër",
+    "note": "Rregullat e notit përcaktohen nga autoriteti i zonës së mbrojtur dhe mund të ndryshojnë. Ndiqni tabelat në vend dhe udhëzimet e stafit."
   },
   "faq": {
     "title": "Pyetje të Shpeshta",
@@ -65,7 +427,7 @@
       },
       {
         "question": "A ka një tarifë hyrjeje?",
-        "answer": "Po, ka një tarifë të vogël hyrjeje për të hyrë në rezervën natyrore (rreth 100 Lek ose €1 për person), dhe një tarifë shtesë parkimi nëse sillni një automjet (rreth 200 Lek)."
+        "answer": "Po. Ka një tarifë të vogël hyrjeje për rezervën natyrore (rreth 50 lekë për person) dhe një tarifë të veçantë parkimi nëse vini me automjet (rreth 200 lekë). Pagesa bëhet vetëm me para në dorë, ndaj sillni lekë shqiptarë në kartëmonedha të vogla."
       },
       {
         "question": "Sa kohë duhet për ta vizituar?",
@@ -82,6 +444,38 @@
       {
         "question": "A është shtegu i aksesueshëm për karroca invalidësh ose karroca fëmijësh?",
         "answer": "Shtegu nga zona e parkimit është kryesisht i shtruar por përfshin një ecje prej rreth 1.5 deri në 2 kilometra. Ndërsa është relativisht i sheshtë, ka disa seksione të pabarabarta dhe shkallë pranë platformës së shikimit, duke e bërë atë vetëm pjesërisht të aksesueshëm për karroca."
+      },
+      {
+        "question": "Sa larg është Syri i Kaltër nga Saranda?",
+        "answer": "Syri i Kaltër ndodhet rreth 25 km nga Saranda. Udhëtimi me makinë zgjat rreth 30–40 minuta në brendësi, drejt Gjirokastrës, ose rreth 45 minuta me autobusin publik që qarkullon mes të dy qyteteve."
+      },
+      {
+        "question": "Ka tualete në Syrin e Kaltër?",
+        "answer": "Po. Tualete publike ndodhen pranë hyrjes dhe në disa pika ushqimore gjatë shtegut. Ato janë bazike, mund të kërkojnë një tarifë të vogël dhe në mesditë gjatë verës krijohen radhë. Vende të posaçme për ndërrimin e foshnjave janë të rralla, ndaj planifikoni përpara se të niseni nga Saranda."
+      },
+      {
+        "question": "Ka parking dhe sa herët duhet të mbërrij?",
+        "answer": "Një parking me pagesë shërben hyrjen e rezervës, me vende të veçanta për autobusë. Kapaciteti është i kufizuar dhe zakonisht mbushet midis orës 10:00 dhe 16:00 në korrik e gusht, ndaj mbërritja përpara 10:00 ose pas 16:00 e bën vizitën dukshëm më të qetë."
+      },
+      {
+        "question": "Mund të karikoj një automjet elektrik afër Syrit të Kaltër?",
+        "answer": "Jo në burim. Karikimi publik në Shqipërinë e Jugut është ende i rrallë dhe jo gjithmonë funksional, ndaj karikoni në Sarandë ose në një qytet më të madh përpara se të hyni në brendësi dhe konsiderojeni Syrin e Kaltër si destinacion pa pika karikimi."
+      },
+      {
+        "question": "Ku është vendi më i mirë për të qëndruar gjatë vizitës?",
+        "answer": "Brenda zonës së mbrojtur nuk ka akomodim. Shumica e vizitorëve qëndrojnë në Sarandë ose Ksamil në bregdet, ose në Gjirokastër dhe Delvinë në brendësi, me disa shtëpi pritëse fshati në zonat midis tyre. Kampingu i egër nuk është i përshtatshëm brenda monumentit."
+      },
+      {
+        "question": "Mund të pi ujë nga burimi?",
+        "answer": "Nuk e këshillojmë. Sado i pastër të duket, uji vjen nga një pellg karstik që furnizohet nga e gjithë zona dhe nuk trajtohet apo monitorohet si ujë i pijshëm. Sillni furnizimin tuaj dhe merrni me vete ambalazhet."
+      },
+      {
+        "question": "Lejohen dronët dhe trekëmbëshat?",
+        "answer": "Fluturimet rekreativе me dron mbi zonat e mbrojtura të Shqipërisë janë të kufizuara dhe zakonisht kërkojnë autorizim, ndaj mos supozoni se mund të fluturoni pa u konsultuar më parë me autoritetin përgjegjës. Fotografia në dorë dhe me trekëmbësh është në rregull në platforma — vetëm lini shtigjet e ngushta të lira."
+      },
+      {
+        "question": "Me çfarë emrash të tjerë njihet Syri i Kaltër?",
+        "answer": "I njëjti burim shfaqet si Syri i Kaltër në shqip, The Blue Eye, Blue Eye Albania ose Blue Eye Saranda në anglisht, Blue Eye Albanien në udhëzuesit gjermanë, Œil Bleu / Blue Eye Albanie në frëngjisht dhe 蓝眼泉 (Lán Yǎn Quán) në kinezisht. Të gjithë i referohen burimit karstik pranë Muzinës, rreth 25 km nga Saranda."
       }
     ]
   },
@@ -96,16 +490,16 @@
     "city": "Qyteti",
     "cityValue": "Sarandë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.4 (14,788)",
+    "googleRatingValue": "4.4 (16,481)",
     "address": "Adresa",
     "addressValue": "Sarande SHA22, Saranda 9701 Shqipëri",
     "accessibility": "Aksesueshmëria",
     "accessibilityValue": "E pjesshme",
     "plusCode": "Kodi Plus",
-    "plusCodeValue": "WV8P+RQ Muzinë, Shqipëri"
+    "plusCodeValue": "W5FV+G4 Sarandë, Shqipëri"
   },
   "hours": {
-    "title": "Orari i Vizitave",
+    "title": "Orari i Hapjes & Koha më e Mirë për të Vizituar",
     "park": "Aksesi në Rezervë",
     "parkTime": "Zakonisht e hapur nga 7:00 AM deri në 7:00 PM",
     "bestTime": "Koha më e mirë për të vizituar",
@@ -113,21 +507,26 @@
     "bestTimeSummer": "Verë: E shkëlqyeshme për t'u freskuar, por shumë e mbushur me njerëz",
     "bestTimeAutumn": "Vjeshtë: Gjethnajë e bukur dhe mot i këndshëm",
     "bestTimeWinter": "Dimër: E qetë, por shumë objekte mund të jenë të mbyllura",
-    "tip": "Vizitoni herët në mëngjes për të shmangur turmat e mëdha dhe për të shijuar atmosferën paqësore."
+    "tip": "Mbërrini herët: të jeni këtu përpara orës 9:00 zakonisht do të thotë burim më i qetë, parkim më i lehtë dhe dritë më e butë për fotografitë."
   },
   "tickets": {
-    "title": "Informacion mbi Pranimin",
+    "title": "Tarifa e Hyrjes & Çmimet e Biletave",
     "park": "Tarifa e Hyrjes",
-    "parkPrice": "Rreth 50 Lek për person",
+    "parkPrice": "Rreth 50 lekë për person",
     "parking": "Parkimi",
-    "parkingPrice": "Rreth 200 Lek për automjet",
+    "parkingPrice": "Rreth 200 lekë për automjet",
+    "payment": "Pagesa",
+    "paymentValue": "Vetëm para në dorë — sillni lekë shqiptarë (ALL) në kartëmonedha të vogla",
     "guided": "Ture të Guiduara",
-    "guidedPrice": "Rekomandohet të rezervoni ture ditore paraprakisht përmes agjencive lokale të udhëtimit në Sarandë ose Gjirokastër"
+    "guidedPrice": "Rekomandohet të rezervoni ture ditore paraprakisht përmes agjencive lokale të udhëtimit në Sarandë ose Gjirokastër",
+    "note": "Çmimet përcaktohen nga autoriteti i zonës së mbrojtur dhe mund të ndryshojnë sipas sezonit. Jepen këtu vetëm si orientim — ndiqni tabelat dhe udhëzimet në hyrje."
   },
   "transport": {
-    "title": "Si të arrini këtu",
+    "title": "Si të arrini te Syri i Kaltër nga Saranda & Ksamili",
     "fromCenter": "Nga Saranda",
     "fromCenterDesc": "Rreth 30-40 minuta me makinë në brendësi drejt Gjirokastrës.",
+    "fromKsamil": "Nga Ksamili",
+    "fromKsamilDesc": "Rreth 45-55 minuta me rrugë: në veri drejt Sarandës, më pas në brendësi në rrugën e Gjirokastrës.",
     "fromStation": "Nga Gjirokastra",
     "fromStationDesc": "Rreth 45-60 minuta me makinë drejt Sarandës.",
     "fromAirport": "Nga Aeroporti i Tiranës",
@@ -141,13 +540,15 @@
   },
   "route": {
     "title": "Rruga e Rekomanduar",
-    "overview": "Zbuloni bukurinë natyrore të burimit.",
+    "overview": "Një itinerar që funksionon për shumicën e vizitorëve: parkoni, ecni drejt burimit, shikoni burimin, ndiqni rrjedhën në drejtim të poshtëm dhe më pas vazhdoni drejt bregdetit apo qyteteve malore po atë ditë.",
     "steps": [
-      "Arritja në zonën e parkimit",
-      "Ecja përgjatë shtegut piktoresk",
-      "Admirimi i burimit të Syrit të Kaltër",
-      "Relaksimi në kafenetë aty pranë",
-      "Një shëtitje e shkurtër në pyllin përreth"
+      "Parkoni në hyrje të rezervës (me pagesë, vende të kufizuara — mbërritja herët ndihmon)",
+      "Ecni në shtegun me hije prej 1.5–2 km drejt burimit, duke llogaritur 25–30 minuta",
+      "Kaloni kohë në platformën e shikimit: kërkoni bebëzën e errët dhe buzën më të çelët",
+      "Ndiqni rrjedhën në drejtim të poshtëm për të parë Bistricën që rrjedh e kthjellët mbi gurë gëlqerorë të çelët",
+      "Ndalesë për kafe ose drekë në një nga pikat e thjeshta të ushqimit gjatë shtegut",
+      "Me automjetin tuaj, vazhdoni po atë ditë drejt Ksamilit, Butrintit ose Gjirokastrës",
+      "Kthehuni përpara muzgut — rruga e afrimit është e qetë dhe pa ndriçim"
     ]
   },
   "gallery": {
@@ -246,12 +647,64 @@
     "officialResourcesTitle": "Burimet Zyrtare & Informacioni",
     "officialLinks": {
       "akt": "Agjencia Kombëtare e Turizmit e Shqipërisë",
+      "mtks": "Ministria e Turizmit, Kulturës dhe Sportit",
       "iktk": "Instituti Kombëtar i Trashëgimisë Kulturore",
       "arkiva": "Drejtoria e Përgjithshme e Arkivave",
       "asig": "Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG)",
       "visa": "Ministria për Evropën dhe Punët e Jashtme - Politika e Vizave"
     },
-    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i një pale të tretë. Ne nuk jemi të lidhur me qeverinë lokale ose agjenci të tjera zyrtare."
+    "disclaimer": "Kjo faqe interneti është një projekt i pavarur i informacionit turistik i një pale të tretë. Ne nuk jemi të lidhur me qeverinë lokale ose agjenci të tjera zyrtare.",
+    "imageCopyright": "Të gjitha imazhet e shfaqura në këtë faqe interneti janë pronë dhe e drejtë autori e fotografëve përkatës.",
+    "lastUpdated": "Përmbajtja u përditësua: 31 gusht 2026"
+  },
+  "breadcrumb": {
+    "items": ["Syri i Kaltër", "Sarandë", "Qarku i Vlorës", "Shqipëri"]
+  },
+  "sources": {
+    "title": "Burimet Zyrtare",
+    "note": "Lidhje me institucionet zyrtare qeveritare shqiptare për verifikim dhe lexim të mëtejshëm.",
+    "items": [
+      {
+        "name": "Agjencia Kombëtare e Zonave të Mbrojtura (AKZM)",
+        "url": "https://akzm.gov.al/"
+      },
+      {
+        "name": "Agjencia Kombëtare e Turizmit e Shqipërisë",
+        "url": "https://akt.gov.al/"
+      },
+      {
+        "name": "Ministria e Turizmit, Kulturës dhe Sportit",
+        "url": "https://mtks.gov.al/en/"
+      },
+      {
+        "name": "Instituti Kombëtar i Trashëgimisë Kulturore (IKTK)",
+        "url": "https://iktk.gov.al/"
+      },
+      {
+        "name": "Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG)",
+        "url": "https://asig.gov.al/"
+      },
+      {
+        "name": "AKZM — Pasaporta e zonës së mbrojtur: Syri i Kaltër, Monument Natyre (PDF)",
+        "url": "https://akzm.gov.al/wp-content/uploads/2020/07/pasaporta-1645440663676.pdf"
+      },
+      {
+        "name": "Protected Planet — Syri i Kaltër, Monument Natyre (kategoria III e IUCN)",
+        "url": "https://www.protectedplanet.net/syri-i-kalter-nature-monument-category-iii-iucn"
+      },
+      {
+        "name": "UNESCO — Qendra e Trashëgimisë Botërore: Butrinti",
+        "url": "https://whc.unesco.org/en/list/570"
+      },
+      {
+        "name": "Invest in Albania — Legjenda shqiptare: si u krijua burimi Syri i Kaltër",
+        "url": "https://invest-in-albania.org/albanian-legend-how-was-the-blue-eye-water-spring-created/"
+      },
+      {
+        "name": "Open-Meteo — API e hapur e motit (modelet ECMWF / DWD)",
+        "url": "https://open-meteo.com/"
+      }
+    ]
   },
   "officialManagement": {
     "title": "Rreth Syrit të Kaltër",
@@ -259,7 +712,7 @@
   },
   "privacy": {
     "title": "Politika e Privatësisë",
-    "lastUpdated": "Përditësimi i fundit: Maj 2026",
+    "lastUpdated": "Përditësimi i fundit: 31 gusht 2026",
     "sections": [
       {
         "heading": "Mbledhja e Informacionit",
@@ -277,7 +730,7 @@
   },
   "terms": {
     "title": "Kushtet e Shërbimit",
-    "lastUpdated": "Përditësimi i fundit: Maj 2026",
+    "lastUpdated": "Përditësimi i fundit: 31 gusht 2026",
     "sections": [
       {
         "heading": "Përmbajtja dhe Përdorimi i Uebsajtit",

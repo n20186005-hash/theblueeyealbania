@@ -1,9 +1,10 @@
 import { useTranslations, useLocale } from 'next-intl';
+import { siteConfig } from '@/config/site';
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
 
   const officialLinks = t.raw('officialLinks') || {};
 
@@ -16,12 +17,14 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <div className="mb-6">
-              <h2 className="font-display text-2xl font-bold mb-1" style={{ color: 'var(--text-primary)' }}>
-                {t('brandName')}
-              </h2>
-              <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
-                {t('brandSubtitle')}
-              </p>
+              <a href={`/${locale}`} className="hover:opacity-80 transition-opacity inline-block">
+                <h2 className="font-display text-2xl font-bold mb-1" style={{ color: 'var(--text-primary)' }}>
+                  {t('brandName')}
+                </h2>
+                <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                  {t('brandSubtitle')}
+                </p>
+              </a>
             </div>
             <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
               {t('officialResourcesTitle')}
@@ -29,6 +32,9 @@ export default function Footer() {
             <div className="flex flex-col gap-2">
               <a href="https://akt.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {officialLinks.akt || 'Albanian National Tourism Agency'}
+              </a>
+              <a href={siteConfig.govtTourismUrl} target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.mtks || 'Ministry of Tourism, Culture and Sport'}
               </a>
               <a href="https://iktk.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {officialLinks.iktk || 'National Institute of Cultural Heritage'}
@@ -62,6 +68,8 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
+          <p className="text-xs" style={{ color: 'var(--text-muted)' }}>{t('lastUpdated')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('imageCopyright')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
         </div>
       </div>

@@ -10,8 +10,8 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/the-blue-eye (1).jpg"
-          alt="The Blue Eye"
+          src="/gallery/the-blue-eye-01.jpg"
+          alt="The Blue Eye (Syri i Kaltër) karst spring near Saranda, Albania"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

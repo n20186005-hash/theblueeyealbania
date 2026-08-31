@@ -85,7 +85,7 @@ export default function CookieSettingsClient() {
             <line x1="19" y1="12" x2="5" y2="12" />
             <polyline points="12 19 5 12 12 5" />
           </svg>
-          {ht('backToHome')}
+          {ht('backToGuide')}
         </a>
 
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-3" style={{ color: 'var(--text-primary)' }}>

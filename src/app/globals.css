@@ -67,6 +67,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
 }
 
 body {
@@ -80,12 +81,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
-}
-
-/* Hide Google Maps attribution */
-.gm-style-cc,
-.gmnoprint {
-  display: none !important;
 }
 
 /* Map container */

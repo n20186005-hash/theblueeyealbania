@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { siteConfig } from '@/config/site';
 
 export async function generateMetadata({
   params,
@@ -8,21 +9,19 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://tomislavsquare.com';
+  const baseUrl = siteConfig.baseUrl;
   const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
-  const hrUrl = `${baseUrl}/hr/terms-of-service`;
-  const deUrl = `${baseUrl}/de/terms-of-service`;
+  const sqUrl = `${baseUrl}/sq/terms-of-service`;
   const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'zh-CN': zhUrl,
         'en': enUrl,
-        'hr': hrUrl,
-        'de': deUrl,
+        'sq': sqUrl,
         'x-default': enUrl,
       },
     },
@@ -49,7 +48,7 @@ function TermsContent() {
             <line x1="19" y1="12" x2="5" y2="12" />
             <polyline points="12 19 5 12 12 5" />
           </svg>
-          {ht('backToHome')}
+          {ht('backToGuide')}
         </a>
 
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>

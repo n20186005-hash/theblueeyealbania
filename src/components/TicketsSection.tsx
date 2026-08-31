@@ -6,7 +6,7 @@ export default function TicketsSection() {
   const t = useTranslations('tickets');
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="tickets" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -16,7 +16,7 @@ export default function TicketsSection() {
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           {/* Park Free */}
           <div
             className="rounded-2xl p-6 sm:p-8"
@@ -62,6 +62,30 @@ export default function TicketsSection() {
               </div>
             </div>
           </div>
+
+          {/* Payment */}
+          <div
+            className="rounded-2xl p-6 sm:p-8"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <div className="flex items-center gap-3 mb-4">
+              <div
+                className="w-12 h-12 rounded-full flex items-center justify-center"
+                style={{ background: 'var(--accent)' }}
+              >
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                  <rect x="2" y="5" width="20" height="14" rx="2" />
+                  <path d="M2 10h20M6 15h4" />
+                </svg>
+              </div>
+              <div>
+                <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+                  {t('payment')}
+                </h3>
+                <p className="text-base font-medium" style={{ color: 'var(--accent)' }}>{t('paymentValue')}</p>
+              </div>
+            </div>
+          </div>
         </div>
 
         {/* Guided Tour */}
@@ -79,6 +103,10 @@ export default function TicketsSection() {
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
           </div>
         </div>
+
+        <p className="text-xs leading-relaxed mt-4" style={{ color: 'var(--text-secondary)' }}>
+          {t('note')}
+        </p>
       </div>
     </section>
   );

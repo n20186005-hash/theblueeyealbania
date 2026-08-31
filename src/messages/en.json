@@ -1,27 +1,30 @@
 {
   "meta": {
-    "title": "The Blue Eye – Saranda, Albania",
-    "description": "Complete travel guide to The Blue Eye in Saranda. Learn about this nature reserve, including location, views, access, and visitor information."
+    "title": "The Blue Eye Albania (Syri i Kaltër): 2026 Visitor Guide, Tickets & Location",
+    "description": "Plan your visit to The Blue Eye (Syri i Kaltër) near Saranda, Albania. Updated 2026 info on entrance fees, opening hours, swimming rules, directions & map."
   },
   "header": {
     "home": "Home",
+    "facilities": "Facilities",
+    "history": "History",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "backToGuide": "The Blue Eye Saranda travel guide"
   },
   "hero": {
-    "title": "The Blue Eye",
-    "subtitle": "Syri i Kaltër",
+    "title": "The Blue Eye Albania (Syri i Kaltër)",
+    "subtitle": "Nature reserve & karst spring near Sarandë, Albania",
     "rating": "4.4",
-    "reviewCount": "14,788 reviews",
+    "reviewCount": "16,481 reviews",
     "type": "Nature Reserve",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
   },
   "intro": {
     "title": "Discover The Blue Eye",
-    "description": "The Blue Eye (Syri i Kaltër) is a stunning water spring and natural phenomenon occurring near Muzinë in Vlorë County, Albania. A popular tourist attraction, the clear blue water of the river bubbles forth from a stunning, more than fifty-metre-deep pool. Divers have descended to fifty metres, but it is still unclear what the actual depth of the karst hole is.",
+    "description": "The Blue Eye (Albanian: Syri i Kaltër; German: Blue Eye Albanien) is a stunning water spring and natural phenomenon occurring near Muzinë in Vlorë County, Albania. A popular tourist attraction, the clear blue water of the river bubbles forth from a stunning, more than fifty-metre-deep pool. Divers have descended to fifty metres, but it is still unclear what the actual depth of the karst hole is.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -53,8 +56,367 @@
         "id": "phenomenon",
         "title": "Natural Phenomenon",
         "content": "The spring owes its name to its striking appearance: the deep center is a dark blue, like the pupil of an eye, while the surrounding shallower water is a lighter shade of blue, like the iris."
+      },
+      {
+        "id": "names",
+        "title": "Names Around the World",
+        "content": "The spring is known as Syri i Kaltër (\"Blue Eye\") in Albanian, The Blue Eye or Blue Eye Albania in English, Blue Eye Albanien in German travel guides, and 蓝眼泉 (Lán Yǎn Quán) in Chinese. All of these names refer to the same karst spring near Muzinë, about 25 km from Saranda."
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "While visiting The Blue Eye, travelers can easily explore other highlights of southern Albania, including the beach resorts of Ksamil and the UNESCO-listed ancient city of Butrint, both within a short drive of Saranda. The historic city of Gjirokastër, itself a UNESCO World Heritage site, lies about half an hour's drive further along the same road."
+      },
+      {
+        "id": "hydrology",
+        "title": "Where the Water Comes From",
+        "content": "Rain and snowmelt falling on the Mali i Gjerë massif disappear into fractured limestone and travel through karst conduits before rising again under pressure at the spring, roughly 152 metres above sea level. Average discharge is about 18,400 litres per second and the water stays close to 10°C all year — cold enough that the outflow has long suited trout farming along the Bistricë valley."
+      },
+      {
+        "id": "ecology",
+        "title": "Woodland & Wildlife",
+        "content": "The reserve protects characteristic karst woodland: oak and plane (sycamore) trees close into a canopy over the spring, giving way to willows and alders along the water's edge. The birdlife is that of southern Albania's riverine forests, while the cold, oxygen-rich water limits which aquatic species can live here. The dense cover is also why the spring stays shaded and cool even in August."
+      },
+      {
+        "id": "conservation",
+        "title": "Protection & Visitor Pressure",
+        "content": "Around 180 hectares surrounding the spring were designated a Nature Monument (IUCN category III) in 1996 and are administered within Albania's national protected-area system. Day-to-day management centres on keeping visitors on fixed paths, discouraging swimming in the spring itself, and limiting litter and fire risk. Drought and summer wildfire — including a fire in 2017 — are the two pressures those responsible for the site watch most closely."
       }
     ]
+  },
+  "toc": {
+    "title": "On This Page",
+    "items": [
+      { "id": "intro", "label": "Overview" },
+      { "id": "about", "label": "About the Spring" },
+      { "id": "facts", "label": "Key Facts" },
+      { "id": "hours", "label": "Hours & Admission" },
+      { "id": "weather", "label": "Weather" },
+      { "id": "swimming", "label": "Swimming Rules" },
+      { "id": "facilities", "label": "Facilities & Services" },
+      { "id": "history", "label": "Geology & History" },
+      { "id": "legends", "label": "Legends & Stories" },
+      { "id": "transport", "label": "Getting There" },
+      { "id": "route", "label": "Suggested Route" },
+      { "id": "gallery", "label": "Photo Gallery" },
+      { "id": "reviews", "label": "Visitor Reviews" },
+      { "id": "faq", "label": "FAQ" },
+      { "id": "map", "label": "Map" },
+      { "id": "sources", "label": "Official Sources" }
+    ]
+  },
+  "facilities": {
+    "title": "Visitor Facilities & Services",
+    "subtitle": "What exists on site, what you will find in the nearest towns, and what is worth arranging before you set out.",
+    "note": "This guide is independent and non-commercial. We describe facility types only — no specific business, brand or operator is named, ranked or recommended.",
+    "levels": {
+      "onsite": "On site",
+      "nearby": "Nearby towns",
+      "planning": "Plan ahead"
+    },
+    "groups": [
+      {
+        "id": "onsite",
+        "title": "On-site facilities",
+        "items": [
+          {
+            "id": "restroom",
+            "name": "Public restrooms",
+            "desc": "Public toilets are found near the entrance and at some food stops along the approach path. Standards are basic, a small fee is sometimes charged, and queues build up around midday in summer. Carry tissues and hand sanitiser with you.",
+            "level": "onsite"
+          },
+          {
+            "id": "parking",
+            "name": "Parking",
+            "desc": "A paid car park serves the reserve entrance. Capacity is limited and fills on summer weekends, so arriving before 10:00 noticeably improves your chances. Coaches and larger vehicles use separate bays.",
+            "level": "onsite"
+          },
+          {
+            "id": "trail",
+            "name": "Trails & viewing platforms",
+            "desc": "A mostly level path of roughly 1.5–2 km links the car park with the spring. Wooden viewing platforms and railings surround the water, with benches set back among the trees.",
+            "level": "onsite"
+          },
+          {
+            "id": "shade",
+            "name": "Rest areas & shade",
+            "desc": "Benches and shaded spots are spread along the approach path, but some stretches are exposed. In July and August a hat and a bottle of water make the walk considerably more comfortable.",
+            "level": "onsite"
+          },
+          {
+            "id": "waste",
+            "name": "Waste & recycling",
+            "desc": "Bins stand along the main path, yet they overflow on busy days. The reserve has no capacity to absorb litter, so carry out whatever you bring in.",
+            "level": "onsite"
+          },
+          {
+            "id": "water",
+            "name": "Drinking water",
+            "desc": "The spring looks pristine, but it is untreated water from a karst catchment shared with the wider massif and is not monitored as a drinking supply. Bring your own bottles rather than filling up at the source.",
+            "level": "onsite"
+          }
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Food & drink",
+        "items": [
+          {
+            "id": "restaurant",
+            "name": "Restaurants & cafés",
+            "desc": "A cluster of simple restaurants and cafés operates near the spring and along the approach path, serving grilled meat, salads, coffee and Albanian home cooking. Most trade seasonally and many close outside the summer months.",
+            "level": "onsite"
+          },
+          {
+            "id": "fish",
+            "name": "Local trout",
+            "desc": "Cold-water trout farms along the Bistricë use water from the same karst system, and trout is the dish most often associated with the valley. Availability depends on the season and on what is being harvested.",
+            "level": "nearby"
+          },
+          {
+            "id": "picnic",
+            "name": "Picnic spots",
+            "desc": "Shaded places beside the stream are used for picnics. Open fires have no place inside a protected monument — use the designated food areas and take your packaging home.",
+            "level": "onsite"
+          },
+          {
+            "id": "dietary",
+            "name": "Dietary requirements",
+            "desc": "Grilled vegetables, salads and cheese are usually available, but vegan, halal or gluten-free choice is limited in a rural area. Travellers with strict requirements are better served eating in Sarandë before setting out.",
+            "level": "planning"
+          }
+        ]
+      },
+      {
+        "id": "stay",
+        "title": "Accommodation & supplies",
+        "items": [
+          {
+            "id": "accommodation",
+            "name": "Accommodation",
+            "desc": "There is no lodging inside the nature monument itself. The nearest hotels and guesthouses are in Sarandë and Ksamil on the coast, or in Gjirokastër and Delvinë inland; a few village guesthouses operate in the countryside between them.",
+            "level": "nearby"
+          },
+          {
+            "id": "camping",
+            "name": "Camping & overnight stays",
+            "desc": "Wild camping and overnight stays are not appropriate inside a protected area. If you want to sleep outdoors, look for established campsites on the coast.",
+            "level": "planning"
+          },
+          {
+            "id": "grocery",
+            "name": "Shops & pharmacies",
+            "desc": "No supermarket or pharmacy stands at the spring. Seasonal kiosks sell drinks and snacks at prices above town levels, so stock up on water, sun protection and any medicine in Sarandë or Gjirokastër first.",
+            "level": "planning"
+          },
+          {
+            "id": "souvenir",
+            "name": "Souvenirs & local produce",
+            "desc": "Seasonal stalls near the entrance sell postcards, magnets and local honey or herbs. Quality and pricing vary, and there is no obligation to buy.",
+            "level": "onsite"
+          }
+        ]
+      },
+      {
+        "id": "vehicle",
+        "title": "Vehicles & refuelling",
+        "items": [
+          {
+            "id": "fuel",
+            "name": "Fuel stations",
+            "desc": "Petrol stations line the Sarandë–Gjirokastër road and the outskirts of Sarandë, but there is none at the spring. Fill up before heading inland, especially if you plan to return after dark.",
+            "level": "nearby"
+          },
+          {
+            "id": "ev",
+            "name": "EV charging",
+            "desc": "Public charging infrastructure in southern Albania remains sparse and its reliability varies. Charge in Sarandë or a larger city before the trip and treat the Blue Eye as a destination without charging.",
+            "level": "planning"
+          },
+          {
+            "id": "rental",
+            "name": "Car & scooter hire",
+            "desc": "Car, scooter and e-scooter hire is common in Sarandë. Scooters suit the short coastal run, but the inland road has bends, blind corners and tour buses — ride defensively and wear a helmet.",
+            "level": "nearby"
+          },
+          {
+            "id": "payment",
+            "name": "Cash & cards",
+            "desc": "Entry and parking fees, kiosks and smaller eateries often work cash-only. Albanian lek (ALL) is essential, and small notes make toilets, parking and tips much easier.",
+            "level": "planning"
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Services & safety",
+        "items": [
+          {
+            "id": "firstaid",
+            "name": "Medical help",
+            "desc": "There is no first-aid post or pharmacy at the spring. The nearest pharmacies and medical services are in Sarandë. Bring personal medication, plasters and insect repellent with you.",
+            "level": "nearby"
+          },
+          {
+            "id": "signal",
+            "name": "Mobile signal & Wi-Fi",
+            "desc": "Coverage in the valley is patchy and data can drop out on the approach road. Some cafés offer Wi-Fi, but do not count on it — download maps and tickets before you leave town.",
+            "level": "planning"
+          },
+          {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "desc": "The approach path is largely flat and firm, while the final section to the viewing platform includes steps and uneven ground. Visitors with limited mobility may prefer to be dropped near the entrance and take their time.",
+            "level": "onsite"
+          },
+          {
+            "id": "family",
+            "name": "Children & older visitors",
+            "desc": "The water's edge is railed, but the ground can be slippery and the water holds at about 10°C year-round. Keep children within arm's reach; sturdy shoes help on the gravel stretches.",
+            "level": "onsite"
+          },
+          {
+            "id": "drone",
+            "name": "Drones & photography",
+            "desc": "Recreational drone use over Albanian protected areas is restricted and normally needs authorisation. Tripods are fine on the platforms — please keep the narrow walkways clear for other visitors.",
+            "level": "planning"
+          }
+        ]
+      }
+    ]
+  },
+  "history": {
+    "title": "Geology, History & Protection",
+    "subtitle": "How the spring was formed, and how it came to be protected.",
+    "keyFactsTitle": "Key figures",
+    "facts": [
+      { "label": "Spring altitude", "value": "152 m" },
+      { "label": "Average discharge", "value": "≈18,400 litres/second" },
+      { "label": "Protected area", "value": "1.8 km² (180 ha)" },
+      { "label": "IUCN category", "value": "III — Natural Monument" },
+      { "label": "Designated", "value": "1996" },
+      { "label": "Explored depth", "value": "50 m; bottom unknown" },
+      { "label": "Bistricë river", "value": "≈25 km to the Ionian Sea" },
+      { "label": "Water temperature", "value": "≈10 °C year-round" }
+    ],
+    "events": [
+      {
+        "year": "Deep time",
+        "title": "A limestone reservoir",
+        "content": "Rain and snowmelt falling on the Mali i Gjerë massif seep into fractured limestone. Slightly acidic water slowly widens cracks into conduits, building the karst aquifer that still feeds the spring today."
+      },
+      {
+        "year": "Continuous",
+        "title": "An artesian upwelling",
+        "content": "Water rises under pressure through a vertical shaft and overflows at about 152 m above sea level. The strong upward flow is why the centre reads almost black, and why divers find the shaft difficult to descend."
+      },
+      {
+        "year": "Local use",
+        "title": "Springs of Bistricë",
+        "content": "The outflow forms the Bistricë, a river of roughly 25 km that reaches the Ionian Sea south of Sarandë. Its cold, stable water has made the valley suitable for trout farming and for hydroelectric use downstream."
+      },
+      {
+        "year": "1996",
+        "title": "Declared a Natural Monument",
+        "content": "The area was designated a Nature Monument under IUCN category III, protecting around 180 hectares of oak and plane woodland around the spring within Albania's protected-area system."
+      },
+      {
+        "year": "2004",
+        "title": "The summer it ran dry",
+        "content": "In the summer of 2004 the spring temporarily dried up — a vivid reminder that karst systems respond quickly to drought and to pressure on the aquifer that feeds them."
+      },
+      {
+        "year": "2017",
+        "title": "Wildfire damage",
+        "content": "Part of the surrounding woodland burned in the 2017 summer fires. Regeneration has been gradual, and the event is frequently cited in local discussions of fire risk and visitor management."
+      },
+      {
+        "year": "Today",
+        "title": "Balancing visits with protection",
+        "content": "Visitor numbers have risen sharply over the past decade. Management now focuses on channelling footfall along fixed paths, keeping the spring undisturbed and protecting the water quality that makes the site remarkable."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Legends & Local Stories",
+    "disclaimer": "The stories below belong to local oral tradition. They are recorded here as cultural heritage, not as scientific or historical fact.",
+    "items": [
+      {
+        "id": "serpent",
+        "kind": "Folk tale",
+        "title": "The eye of the giant serpent",
+        "content": "A tale told in the villages below Mali i Gjerë describes a giant serpent (heshdërha) that rose from the sea near today's Sarandë, devoured people at a spring in Delvinë and then whole flocks on the mountain. An old man loaded a donkey with straw, set it alight and let the beast swallow it. In its agony the serpent crossed the mountainside — leaving the parallel lines of trees said to be still visible on the slope — and where it finally fell, its blue eye dropped to the ground and water began to flow. The spring, the story says, is that eye still weeping."
+      },
+      {
+        "id": "dragon",
+        "kind": "Variant",
+        "title": "The dragon version",
+        "content": "Other versions of the same story replace the serpent with a dragon. Both creatures belong to an older stratum of belief: scholars of Albanian folklore, notably Robert Elsie, note that the serpent was an important symbol for the ancient Illyrians, and dragon motifs survive in stone reliefs at religious sites in the Delvinë–Sarandë area."
+      },
+      {
+        "id": "name",
+        "kind": "Naming",
+        "title": "Why it is called an eye",
+        "content": "The name is descriptive rather than mythical: the deep centre reads as a dark pupil and the shallower rim as a lighter iris. Albanian Syri i Kaltër simply means the blue eye, and most other languages translate or transliterate that image directly."
+      },
+      {
+        "id": "bottomless",
+        "kind": "Local belief",
+        "title": "The spring with no bottom",
+        "content": "Because divers have never reached the floor of the shaft, a local belief holds that the spring is bottomless or connected to the sea. Hydrologically it is a karst conduit fed from within the massif: the true depth is unmeasured rather than infinite."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather at the Spring",
+    "subtitle": "Current conditions and a seven-day outlook for the Blue Eye at Muzinë, so you can plan what to wear, when to arrive and when the light is best.",
+    "current": "Now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipitation": "Precipitation",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "forecast": "7-day forecast",
+    "today": "Today",
+    "updated": "Updated",
+    "source": "Data: Open-Meteo (ECMWF / DWD models), shown for the spring's coordinates. Conditions in this valley can change quickly — check an official forecast before you set out.",
+    "loading": "Loading current weather…",
+    "error": "Current weather data is temporarily unavailable.",
+    "errorHint": "Use the links in the Sources section for an official forecast.",
+    "codes": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Rain showers",
+      "thunderstorm": "Thunderstorm",
+      "thunderstormHail": "Thunderstorm with hail"
+    }
+  },
+  "swimming": {
+    "title": "Swimming Rules at The Blue Eye",
+    "subtitle": "One of the most searched questions about Syri i Kaltër: can you get into the water? Here is the official position, what happens in practice, and the thinking behind the rule.",
+    "status": "Swimming prohibited",
+    "official": "Swimming is not permitted in the spring. The Blue Eye is a protected Nature Monument (IUCN category III), and signage at the site states that entering the water is prohibited. The rule exists to protect visitors and the karst water system alike.",
+    "realityTitle": "What happens in practice",
+    "reality": "Despite the ban, some visitors do get into the water on hot summer afternoons. We do not recommend following them: beyond the rule itself, the water stays around 10 °C all year, the upwelling current is strong, and the shaft has never been fully surveyed — divers have reached 50 m without touching the bottom.",
+    "reasonsTitle": "Why swimming is prohibited",
+    "reasons": [
+      "The spring is the source of the Bistricë river and part of a karst aquifer: sunscreen, soap and body oils enter the water directly and cannot be filtered out.",
+      "At roughly 10 °C the water can trigger cold-water shock, and the upward pressure makes swimming far harder than it looks from the platform.",
+      "The true depth is unknown — the strong upwelling has so far prevented a complete survey of the shaft.",
+      "The banks are fragile and erode quickly when people leave the marked platforms."
+    ],
+    "alternativeTitle": "Where to swim instead",
+    "alternative": "For a swim, head to the public beaches on the coast: Ksamil and the Sarandë seafront are the closest options, around 30–45 minutes away by road.",
+    "linkTickets": "Entrance fee & ticket prices",
+    "linkTransport": "How to get to The Blue Eye",
+    "note": "Swimming rules are set by the protected-area authority and can change. Follow the signage on site and any instructions from staff."
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -65,7 +427,7 @@
       },
       {
         "question": "Is there an entrance fee?",
-        "answer": "Yes, there is a small entrance fee to access the nature reserve (approximately 100 Lek or €1 per person), and an additional parking fee if you bring a vehicle (around 200 Lek)."
+        "answer": "Yes. There is a small entrance fee to access the nature reserve (approximately 50 lek per person) and a separate parking fee if you arrive by vehicle (approximately 200 lek). Payment is cash only, so bring Albanian lek in small notes."
       },
       {
         "question": "How long does it take to visit?",
@@ -82,6 +444,38 @@
       {
         "question": "Is the path accessible for wheelchairs or strollers?",
         "answer": "The path from the parking area is mostly paved but involves a walk of about 1.5 to 2 kilometers. While it is relatively flat, there are some uneven sections and steps near the viewing platform, making it only partially accessible for wheelchairs."
+      },
+      {
+        "question": "How far is The Blue Eye from Saranda?",
+        "answer": "The Blue Eye is about 25 km (15 miles) from Saranda. The drive takes roughly 30–40 minutes inland along the road towards Gjirokastër, or about 45 minutes by the public bus that runs between the two towns."
+      },
+      {
+        "question": "Are there toilets at the Blue Eye?",
+        "answer": "Yes. Public toilets are located near the entrance and at some of the food stops along the approach path. They are basic, may charge a small fee and queue heavily around midday in summer. Dedicated baby-changing facilities are uncommon, so plan around that before leaving Sarandë."
+      },
+      {
+        "question": "Is there parking, and how early should I arrive?",
+        "answer": "A paid car park serves the reserve entrance, with separate bays for coaches. Spaces are limited and usually full between 10:00 and 16:00 in July and August, so arriving before 10:00 or after 16:00 makes the visit noticeably calmer."
+      },
+      {
+        "question": "Can I charge an electric car near the Blue Eye?",
+        "answer": "Not at the spring. Public charging in southern Albania is still sparse and not always operational, so charge in Sarandë or a larger city before heading inland and treat the Blue Eye as a destination without charging facilities."
+      },
+      {
+        "question": "Where is the best place to stay for a visit?",
+        "answer": "There is no accommodation inside the protected area. Most visitors stay in Sarandë or Ksamil on the coast, or in Gjirokastër and Delvinë inland, with a few village guesthouses in the countryside between them. Wild camping is not appropriate within the monument."
+      },
+      {
+        "question": "Can I drink the spring water?",
+        "answer": "We do not advise it. However clear it looks, the water comes from a karst aquifer shared with the wider catchment and is not treated or monitored as drinking water. Bring your own supply and carry out any packaging."
+      },
+      {
+        "question": "Are drones and tripods allowed?",
+        "answer": "Recreational drone flights over Albanian protected areas are restricted and normally require authorisation, so assume you cannot fly without checking with the responsible authority first. Handheld and tripod photography is fine on the viewing platforms — just keep the narrow walkways clear."
+      },
+      {
+        "question": "What other names is the Blue Eye known by?",
+        "answer": "The same spring appears as Syri i Kaltër in Albanian, The Blue Eye, Blue Eye Albania or Blue Eye Saranda in English, Blue Eye Albanien in German travel guides, Œil Bleu / Blue Eye Albanie in French, and 蓝眼泉 (Lán Yǎn Quán) in Chinese. They all refer to the karst spring near Muzinë, about 25 km from Sarandë."
       }
     ]
   },
@@ -96,16 +490,16 @@
     "city": "City",
     "cityValue": "Saranda",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (14,788)",
+    "googleRatingValue": "4.4 (16,481)",
     "address": "Address",
     "addressValue": "Sarande SHA22, Saranda 9701 Albania",
     "accessibility": "Accessibility",
     "accessibilityValue": "Partial",
     "plusCode": "Plus Code",
-    "plusCodeValue": "WV8P+RQ Muzinë, Albania"
+    "plusCodeValue": "W5FV+G4 Saranda, Albania"
   },
   "hours": {
-    "title": "Visiting Hours",
+    "title": "Opening Hours & Best Time to Visit",
     "park": "Reserve Access",
     "parkTime": "Usually open from 7:00 AM to 7:00 PM (Summer hours may vary)",
     "bestTime": "Best Time to Visit",
@@ -113,21 +507,26 @@
     "bestTimeSummer": "Summer: Great for cooling down, but very crowded",
     "bestTimeAutumn": "Autumn: Beautiful foliage and pleasant weather",
     "bestTimeWinter": "Winter: Quiet, but many facilities may be closed",
-    "tip": "Visit early in the morning to avoid large crowds and enjoy the peaceful atmosphere."
+    "tip": "Arrive early: getting here before 9:00 usually means a quieter spring, easier parking and softer light for photographs."
   },
   "tickets": {
-    "title": "Admission Information",
+    "title": "Entrance Fee & Ticket Prices",
     "park": "Entrance Fee",
-    "parkPrice": "Approx. 50 Lek per person",
+    "parkPrice": "Approx. 50 lek per person",
     "parking": "Parking",
-    "parkingPrice": "Approx. 200 Lek per vehicle",
+    "parkingPrice": "Approx. 200 lek per vehicle",
+    "payment": "Payment",
+    "paymentValue": "Cash only — bring Albanian lek (ALL) in small notes",
     "guided": "Guided Tours",
-    "guidedPrice": "It is recommended to book day tours in advance through local travel agencies in Saranda or Gjirokastër"
+    "guidedPrice": "It is recommended to book day tours in advance through local travel agencies in Saranda or Gjirokastër",
+    "note": "Prices are set by the protected-area authority and may change by season. They are given here only as an indication — please follow the signage and any instructions at the entrance."
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Saranda",
+    "title": "How to Get to The Blue Eye from Sarandë & Ksamil",
+    "fromCenter": "From Sarandë",
     "fromCenterDesc": "About a 30-40 minute drive inland towards Gjirokastër.",
+    "fromKsamil": "From Ksamil",
+    "fromKsamilDesc": "Roughly 45-55 minutes by road: north to Sarandë, then inland on the Gjirokastër road.",
     "fromStation": "From Gjirokastër",
     "fromStationDesc": "About a 45-60 minute drive towards Saranda.",
     "fromAirport": "From Tirana Airport",
@@ -141,13 +540,15 @@
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Explore the natural beauty of the spring.",
+    "overview": "A loop that works for most visitors: park, walk in, see the spring, follow the outflow downstream, then continue to the coast or the mountain towns the same day.",
     "steps": [
-      "Arrive at the parking area",
-      "Walk along the scenic path",
-      "Admire the Blue Eye spring",
-      "Relax at the nearby cafes",
-      "Take a short hike in the surrounding forest"
+      "Park at the reserve entrance (paid, limited spaces — early arrival helps)",
+      "Walk the shaded 1.5–2 km trail to the spring, allowing 25–30 minutes",
+      "Spend time on the viewing platform: look for the dark pupil and the lighter rim",
+      "Follow the outflow downstream to see the Bistricë running clear over pale limestone",
+      "Stop for coffee or a meal at one of the simple eateries along the path",
+      "With your own vehicle, continue to Ksamil, Butrint or Gjirokastër the same day",
+      "Head back before dusk — the approach road is quiet and unlit"
     ]
   },
   "gallery": {
@@ -246,12 +647,64 @@
     "officialResourcesTitle": "Official Resources & Information",
     "officialLinks": {
       "akt": "Albanian National Tourism Agency",
+      "mtks": "Ministry of Tourism, Culture and Sport",
       "iktk": "National Institute of Cultural Heritage",
       "arkiva": "General Directorate of Archives",
       "asig": "State Authority for Geospatial Information (ASIG)",
       "visa": "Ministry for Europe and Foreign Affairs - Visa Policy"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "imageCopyright": "All images displayed on this website are the property and copyright of their respective photographers.",
+    "lastUpdated": "Content last updated: August 31, 2026"
+  },
+  "breadcrumb": {
+    "items": ["The Blue Eye", "Saranda", "Vlorë County", "Albania"]
+  },
+  "sources": {
+    "title": "Official Sources",
+    "note": "Links to official Albanian government institutions for verification and further reading.",
+    "items": [
+      {
+        "name": "National Agency of Protected Areas (AKZM)",
+        "url": "https://akzm.gov.al/"
+      },
+      {
+        "name": "Albanian National Tourism Agency",
+        "url": "https://akt.gov.al/"
+      },
+      {
+        "name": "Ministry of Tourism, Culture and Sport",
+        "url": "https://mtks.gov.al/en/"
+      },
+      {
+        "name": "National Institute of Cultural Heritage (IKTK)",
+        "url": "https://iktk.gov.al/"
+      },
+      {
+        "name": "State Authority for Geospatial Information (ASIG)",
+        "url": "https://asig.gov.al/"
+      },
+      {
+        "name": "AKZM — Protected area passport: Blue Eye Nature Monument (PDF)",
+        "url": "https://akzm.gov.al/wp-content/uploads/2020/07/pasaporta-1645440663676.pdf"
+      },
+      {
+        "name": "Protected Planet — Syri i Kaltër Nature Monument (IUCN category III)",
+        "url": "https://www.protectedplanet.net/syri-i-kalter-nature-monument-category-iii-iucn"
+      },
+      {
+        "name": "UNESCO World Heritage Centre — Butrint",
+        "url": "https://whc.unesco.org/en/list/570"
+      },
+      {
+        "name": "Invest in Albania — Albanian legend: how the Blue Eye was created",
+        "url": "https://invest-in-albania.org/albanian-legend-how-was-the-blue-eye-water-spring-created/"
+      },
+      {
+        "name": "Open-Meteo — open weather API (ECMWF / DWD models)",
+        "url": "https://open-meteo.com/"
+      }
+    ]
   },
   "officialManagement": {
     "title": "About The Blue Eye",
@@ -259,7 +712,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -277,7 +730,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
