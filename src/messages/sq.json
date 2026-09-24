@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Syri i Kaltër (The Blue Eye) Shqipëri: Udhëzues 2026, Biletat & Vendndodhja",
+    "title": "Syri i Kaltër Sarandë — Udhëzues udhëtimi",
     "description": "Planifikoni vizitën te Syri i Kaltër pranë Sarandës, Shqipëri. Info e përditësuar 2026 për tarifat e hyrjes, orarin, rregullat e notit, si të arrini dhe hartën."
   },
   "header": {
@@ -17,7 +17,7 @@
     "title": "Syri i Kaltër (The Blue Eye)",
     "subtitle": "Rezervë natyrore & burim karstik pranë Sarandës, Shqipëri",
     "rating": "4.4",
-    "reviewCount": "16,481 vlerësime",
+    "reviewCount": "16,893 vlerësime",
     "type": "Rezervë Natyrore",
     "openMaps": "Shiko në Google Maps",
     "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
@@ -98,6 +98,9 @@
       { "id": "legends", "label": "Legjenda & tregime" },
       { "id": "transport", "label": "Si të arrini" },
       { "id": "route", "label": "Rruga e sugjeruar" },
+      { "id": "seasonal", "label": "Stina më e mirë" },
+      { "id": "itineraries", "label": "Itineraret" },
+      { "id": "responsibility", "label": "Përgjegjësia e vizitorit" },
       { "id": "gallery", "label": "Galeria" },
       { "id": "reviews", "label": "Vlerësimet" },
       { "id": "faq", "label": "Pyetje të shpeshta" },
@@ -380,7 +383,7 @@
     "forecast": "Parashikimi 7-ditor",
     "today": "Sot",
     "updated": "Përditësuar",
-    "source": "Të dhënat: Open-Meteo (modelet ECMWF / DWD), për koordinatat e burimit. Moti në këtë luginë mund të ndryshojë shpejt — kontrolloni një parashikim zyrtar përpara se të niseni.",
+    "source": "Shifrat tregohen për koordinatat e burimit. Moti në këtë luginë mund të ndryshojë shpejt, prandaj kontrolloni një parashikim zyrtar para se të niseni.",
     "loading": "Duke ngarkuar motin aktual…",
     "error": "Të dhënat e motit nuk janë për momentin të disponueshme.",
     "errorHint": "Përdorni lidhjet në seksionin Burimet për një parashikim zyrtar.",
@@ -417,6 +420,142 @@
     "linkTickets": "Tarifa e hyrjes & çmimet e biletave",
     "linkTransport": "Si të arrini te Syri i Kaltër",
     "note": "Rregullat e notit përcaktohen nga autoriteti i zonës së mbrojtur dhe mund të ndryshojnë. Ndiqni tabelat në vend dhe udhëzimet e stafit."
+  },
+  "seasonal": {
+    "title": "Strategjia sezonal e vizitorëve",
+    "subtitle": "Si ndryshojnë moti, qartësia e burimit dhe jeta e egër gjatë vitit — dhe për çfarë i shërben më mirë çdo stinë.",
+    "note": "Bazuar në vëzhgime klimatike afatgjata për jugun e Shqipërisë dhe raporte vizitorësh, jo në një parashikim zyrtar. Kontrolloni gjithmonë një parashikim aktual para se të udhëtoni.",
+    "cols": {
+      "season": "Stina",
+      "weather": "Moti & drita",
+      "spring": "Burimi & uji",
+      "wildlife": "Jeta e egër & natyra",
+      "bestFor": "Më i mirë për"
+    },
+    "rows": [
+      {
+        "season": "Pranverë (Mars–Maj)",
+        "weather": "Butak, 15–22°C; mund të ketë shira. Dritë e gjatë e butë — ideale për fotografi.",
+        "spring": "Dhihet e borës rrisin rrjedhën; blu e thellë është e gjallë dhe jeshilët rreth janë më të freskëta.",
+        "wildlife": "Zogj migrues dhe pyje në lule; lulet e egra përgjatë shtegut.",
+        "bestFor": "Fotografë, ecës dhe kushdo që preferon më pak turmë."
+      },
+      {
+        "season": "Verë (Qershor–Gusht)",
+        "weather": "E nxehtë, 28–34°C; pothuajse pa shi. Periudha më e ngjeshur dhe më e thatë.",
+        "spring": "Rrjedhja mbetet e fortë dhe e ftohtë (~10°C). Kurora e pyllit jep hije të mirëseardhshme, por mesdita është e ngjeshur.",
+        "wildlife": "Kurorë e plotë e gjelbër; më e mira në mëngjes herët për këngën e zogjve dhe ajër më të freskët.",
+        "bestFor": "Familje në pushime — shkoni herët (para 10:00) ose vonë për t'i shmangur turmën."
+      },
+      {
+        "season": "Vjeshtë (Shtator–Nëntor)",
+        "weather": "E ngrohtë në fillim, ftohet në 12–20°C; kthehen ca shira. Më pak vizitorë.",
+        "spring": "Ujë i qëndrueshëm e i pastër dhe dritë e artë. Moti më i rehatshëm për ecje gjatë vitit.",
+        "wildlife": "Ngjyrat e vjeshtës te lisat dhe platanët; shtigje të qeta.",
+        "bestFor": "Vizita të qeta, ecje dhe kombinim me Butrintin ose Gjirokastrën."
+      },
+      {
+        "season": "Dimër (Dhjetor–Shkurt)",
+        "weather": "Ftohtë, 6–14°C; më i lagësht dhe ditë të shkurtra. Ndonjëherë me brymë.",
+        "spring": "Burimi mban ~10°C dhe ngjyrën e thellë, por shtigjet mund të jenë me baltë dhe shumë kafene mbyllen.",
+        "wildlife": "Pemë të zhveshura hapin pamjen; shumë pak njerëz — një vizitë e qetë e atmosferike.",
+        "bestFor": "Vetmi dhe fotografi me humor; planifiko një udhëtim të shkurtër sipas motit."
+      }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerare të sugjeruara",
+    "subtitle": "Zgjidhni një rrugë që i përshtatet grupit tuaj dhe kohës që keni.",
+    "audienceTitle": "Sipas llojit të vizitorit",
+    "audiences": [
+      {
+        "id": "families",
+        "name": "Familje me fëmijë",
+        "desc": "Një ecje e shkurtër, kryesisht e sheshtë me shpërblim të madh te burimi — një dalje e mbarë e parë familjare në Shqipëri.",
+        "tips": [
+          "Shkoni herët për t'i shmangur nxehtësinë dhe turmën.",
+          "Mbajini fëmijët afër buzë ujit me parapet.",
+          "Merrni ujë, ushqime dhe rroba shtese; shërbimet janë bazike.",
+          "Ruajeni plazhin (Ksamil) për freskimin e pasdites."
+        ]
+      },
+      {
+        "id": "photographers",
+        "name": "Fotografë & dashamirës të natyrës",
+        "desc": "Syri i Kaltër është një studim i ngjyrës dhe qetësisë — ia vlen nisja e hershme për dritë të butë.",
+        "tips": [
+          "Arrijini në hapje për ujë të qetë dhe më pak reflektime nga turma.",
+          "Një filtër polarizues thellon ngjyrën blu dhe pakëson shkëlqimin e sipërfaqes.",
+          "Fotografoni rrjedhën e ujit përgjatë Bistricës për tekstura në lëvizje.",
+          "Dronat janë të kufizuara mbi zona të mbrojtura — përdorni një treshe këmbëzor në vend."
+        ]
+      },
+      {
+        "id": "accessible",
+        "name": "Lëvizje e kufizuar & e aksesueshme",
+        "desc": "Hyrja është kryesisht e sheshtë, por pjesa finale ka shkallë dhe terren të çrregullt.",
+        "tips": [
+          "Kërkoni të zbresni afër hyrjes për të shkurtuar ecjen.",
+          "Bëni rrugën në ritmin tuaj dhe përdorni stolitë përgjatë shtegut.",
+          "Vishni këpucë të forta për pjesët me zhavor.",
+          "Planifiko ndaljet e tualetit para se të niseni nga Saranda."
+        ]
+      }
+    ],
+    "routesTitle": "Sipas kohës së disponueshme",
+    "halfDay": {
+      "title": "Vizitë gjysmëdite",
+      "time": "Rreth 2–3 orë",
+      "steps": [
+        "Ngisni ose merrni taksi nga Saranda (30–45 min); arrijini para 10:00.",
+        "Ecni shtegun e hijeshëm 1.5–2 km deri te burimi (25–30 min).",
+        "Kaloni kohë në platformën e pamjes dhe përgjatë rrjedhës.",
+        "Kafe ose drekë në një ushqimtar të thjeshtë pranë shtegut.",
+        "Kthehuni në bregdet para se të ngjishet turma e pasdites."
+      ]
+    },
+    "fullDay": {
+      "title": "Vizitë ditë e plotë",
+      "time": "Rreth 6–8 orë",
+      "steps": [
+        "Mëngjes te Syri i Kaltër: ecni, fotografoni, shijoni platformën.",
+        "Kafe ose drekë me troftë në një ushqimtar të luginës.",
+        "Ngisni drejt Butrintit (UNESCO) ose Gjirokastrës (UNESCO) për pasditen.",
+        "Ndaluni në plazhin e Ksamilit në kthim për një not.",
+        "Kthehuni në Sarandë për perëndim dielli përgjatë rrugës bregdetare."
+      ]
+    }
+  },
+  "responsibility": {
+    "title": "Shkenca & Përgjegjësia e vizitorit",
+    "subtitle": "Pse Syri i Kaltër mbetet blu — dhe si vizitorët ndihmojnë ta mbajnë kështu.",
+    "items": [
+      {
+        "id": "water",
+        "name": "Cilësia e ujit & sistemi karstik",
+        "desc": "Burimi ngrihet nga një akuifer karstik i ushqyer nga shi e dhihet e borës mbi masivin Mali i Gjerë. Çfarë hyn në pellgun — sapun, krem dielli, plehra — arrin në ujë drejtpërdrejt pa filtrim, prandaj mbajtja e burimit të pastër mbron të gjithë sistemin."
+      },
+      {
+        "id": "wildlife",
+        "name": "Pylli & jeta e egër",
+        "desc": "Kurora e lisave dhe platanëve i jep hije burimit dhe strehon zogj lumorë. Qëndroni në shtigjet dhe platformat e shënuara që bregut dhe rrënjëve të mos u copëtohen."
+      },
+      {
+        "id": "zerowaste",
+        "name": "Lësho pa gjurmë",
+        "desc": "Koshtët mbushen ditët e ngjeshura dhe rezerva nuk absorbon plehra. Merrni me vete çfarë sillni, dhe mos ndezni kurrë zjarr të hapur brenda një monumenti të mbrojtur."
+      },
+      {
+        "id": "safety",
+        "name": "Siguria te burimi",
+        "desc": "Uji është rreth 10°C gjatë gjithë vitit me një rrymë të fortë ngritëse; thellësia e vërtetë e shaftit nuk është matur. Mbajini fëmijët afër, vishni këpucë të forta mbi zhavor të rrëshqitshëm, dhe mos hyni kurrë në ujë."
+      },
+      {
+        "id": "respect",
+        "name": "Respektoni zonën e mbrojtur",
+        "desc": "Vendi është Monument Natyre (kategoria III IUCN) i menaxhuar nga autoriteti i zonave të mbrojtura të Shqipërisë. Ndiqni sinjalistikën, udhëzimet e stafit dhe rregullin e ndaluar notit — ato ekzistojnë për të ruajtur burimin të jashtëzakonshëm për të gjithë."
+      }
+    ]
   },
   "faq": {
     "title": "Pyetje të Shpeshta",
@@ -490,7 +629,7 @@
     "city": "Qyteti",
     "cityValue": "Sarandë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.4 (16,481)",
+    "googleRatingValue": "4.4 (16,893)",
     "address": "Adresa",
     "addressValue": "Sarande SHA22, Saranda 9701 Shqipëri",
     "accessibility": "Aksesueshmëria",
@@ -530,13 +669,17 @@
     "fromStation": "Nga Gjirokastra",
     "fromStationDesc": "Rreth 45-60 minuta me makinë drejt Sarandës.",
     "fromAirport": "Nga Aeroporti i Tiranës",
-    "fromAirportDesc": "Rreth 4-5 orë me makinë në jug.",
+    "fromAirportDesc": "Aeroporti më i afërt i madh është Aeroporti Ndërkombëtar i Tiranës (TIA), rreth 280 km në veri. Nga aty rruga më e thjeshtë është të ngisni në jug (4–5 orë) përmes A1 dhe rrugëve bregdetare, ose të merrni një fluturim vendor drejt Korfuzit (Greqi) shumë më afër dhe një trageton të shkurtër në Sarandë, pastaj ngisni ~30–45 minuta në brendësi. Autobusë dhe transferta private ecin nga Tirana në Sarandë gjatë gjithë ditës.",
     "publicTransport": "Transporti Publik",
-    "publicTransportDesc": "Mund të merrni autobusin publik që udhëton midis Sarandës dhe Gjirokastrës. Kërkojini shoferit t'ju zbresë në Syrin e Kaltër. Bileta kushton rreth 300 Lekë dhe udhëtimi zgjat rreth 45 minuta. Pas zbritjes, do t'ju duhet të ecni rreth 2 km përgjatë një rruge të bukur për të arritur në zyrën e biletave dhe burim.",
+    "publicTransportDesc": "Një autobus publik ecën midis Sarandës dhe Gjirokastrës dhe mund t'ju lërë në nyjën e Syrit të Kaltër — i thoni shoferit 'Syri i Kaltër'. Bileta kushton rreth 300 Lekë dhe udhëtimi zgjat rreth 45 minuta. Pas zbritjes, ende ecni rreth 2 km përgjatë një rruge të bukur për të arritur në zyrën e biletave dhe burim. Shërbimet janë më të shpeshta në verë; jashtë sezonit, konfirmoni orët local.",
     "walking": "Në këmbë",
     "walkingDesc": "Nga kthesa e rrugës kryesore ose zona e parkimit, do t'ju duhet të ecni 1.5 deri në 2 km përgjatë një shtegu të rrethuar nga natyra për të arritur në burim. Rekomandohen këpucë të rehatshme për ecje.",
     "driving": "Me makinë",
-    "drivingDesc": "Mënyra më e përshtatshme për të arritur në rezervë. Ka një zonë parkimi afër hyrjes. Kushtet e rrugës janë të mira, por mund të bëhet mjaft e mbushur me njerëz gjatë sezonit të pikut të verës, ndaj rekomandohet të mbërrini herët. Marrja me qira e një skuter nga Saranda është gjithashtu një opsion shumë i njohur."
+    "drivingDesc": "Mënyra më e përshtatshme për të arritur në rezervë. Ka një zonë parkimi afër hyrjes. Kushtet e rrugës janë të mira, por mund të bëhet mjaft e mbushur me njerëz gjatë sezonit të pikut të verës, ndaj rekomandohet të mbërrini herët. Marrja me qira e një makine ose skuteri nga Saranda është gjithashtu një opsion shumë i njohur.",
+    "taxi": "Taksi",
+    "taxiDesc": "Taksitë dhe aplikacionet e transportit funksionojnë në Sarandë dhe Ksamil. Një taksi me një drejtim për në Syrin e Kaltër zakonisht zgjat 30–45 minuta; caktimi i udhëtimit të kthimit paraprakisht është i mençur, pasi disponueshmëria në vend është e kufizuar. Marrëveshni çmimin para nisjes dhe mbani para të vogla (Lekë) me vete.",
+    "tour": "Turne e organizuar",
+    "tourDesc": "Shumë agjensi locale në Sarandë dhe Ksamil shesin ekskursione gjysmëdite ose ditë të plotë që kombinojnë Syrin e Kaltër me Butrintin, Gjirokastrën ose Ksamlin. Një opsion i guiduar hiq doret e drejtimit dhe parkimit, dhe zakonisht përfshin marrjen nga hoteli."
   },
   "route": {
     "title": "Rruga e Rekomanduar",

@@ -23,7 +23,14 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import FAQSection from '@/components/FAQSection';
 import SourcesSection from '@/components/SourcesSection';
+import SeasonalStrategy from '@/components/SeasonalStrategy';
+import Itineraries from '@/components/Itineraries';
+import VisitorResponsibility from '@/components/VisitorResponsibility';
 import Footer from '@/components/Footer';
+
+// Refresh server-rendered content (including the server-side weather fetch)
+// at most every 10 minutes.
+export const revalidate = 600;
 
 export async function generateMetadata({
   params,
@@ -122,6 +129,13 @@ export default async function HomePage({
         },
       ],
       isAccessibleForFree: false,
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '16893',
+        bestRating: '5',
+        worstRating: '1',
+      },
       hasMap: siteConfig.mapsUrl,
       sameAs: [siteConfig.mapsUrl, siteConfig.govtTourismUrl],
       touristType: [
@@ -304,6 +318,9 @@ export default async function HomePage({
         <LegendsSection />
         <TransportSection />
         <RouteSection />
+        <SeasonalStrategy />
+        <Itineraries />
+        <VisitorResponsibility />
         <Gallery />
         <Reviews />
         <FAQSection />

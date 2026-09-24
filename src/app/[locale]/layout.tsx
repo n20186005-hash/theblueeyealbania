@@ -6,6 +6,8 @@ import type { Metadata, Viewport } from 'next';
 import { siteConfig, hreflangLocale } from '@/config/site';
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 
+const SITE_NAME = siteConfig.siteName;
+
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
@@ -25,16 +27,16 @@ export async function generateMetadata({
 
   return {
     metadataBase: new URL(baseUrl),
-    title: messages.meta.title,
+    title: SITE_NAME[locale] || siteConfig.name,
     description: messages.meta.description,
-    applicationName: siteConfig.name,
+    applicationName: SITE_NAME[locale] || siteConfig.name,
     alternates: {
       canonical: selfUrl,
     },
     openGraph: {
-      title: messages.meta.title,
+      title: SITE_NAME[locale] || siteConfig.name,
       description: messages.meta.description,
-      siteName: siteConfig.name,
+      siteName: SITE_NAME[locale] || siteConfig.name,
       locale: openGraphLocale,
       type: 'website',
       url: selfUrl,

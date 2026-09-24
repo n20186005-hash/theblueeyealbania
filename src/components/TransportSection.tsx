@@ -59,16 +59,40 @@ export default function TransportSection() {
     {
       key: 'driving',
       icon: (
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M14 3v4a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3"/>
-          <path d="M14 6h6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-6"/>
-          <path d="M4 20h16"/>
-          <circle cx="7" cy="17" r="2"/>
-          <circle cx="17" cy="17" r="2"/>
-        </svg>
-      ),
-    },
-  ];
+       {
+          key: 'driving',
+          icon: (
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M14 3v4a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3"/>
+              <path d="M14 6h6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-6"/>
+              <path d="M4 20h16"/>
+              <circle cx="7" cy="17" r="2"/>
+              <circle cx="17" cy="17" r="2"/>
+            </svg>
+          ),
+          },
+          {
+          key: 'taxi',
+          icon: (
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M5 17h14l1.5-5.5a2 2 0 0 0-1.9-2.5H5.4A2 2 0 0 0 3.5 11.5z"/>
+              <path d="M3 17v2M21 17v2M7 17v2M17 17v2"/>
+              <circle cx="7.5" cy="17" r="1.4"/>
+              <circle cx="16.5" cy="17" r="1.4"/>
+            </svg>
+          ),
+          },
+          {
+          key: 'tour',
+          icon: (
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M3 21h18"/>
+              <path d="M5 21V8l7-4 7 4v13"/>
+              <path d="M9 21v-6h6v6"/>
+            </svg>
+          ),
+          },
+          ];
 
   return (
     <section id="transport" className="section-padding">

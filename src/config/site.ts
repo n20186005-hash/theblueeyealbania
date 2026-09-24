@@ -5,6 +5,13 @@ export const siteConfig = {
   name: 'The Blue Eye',
   alternateName: 'Syri i Kaltër',
   baseUrl: 'https://theblueeyealbania.com',
+  // SEO site name in the format "Attraction + City + Travel Guide" per locale.
+  // Used for <title>, og:site_name and JSON-LD.
+  siteName: {
+    sq: 'Syri i Kaltër Sarandë — Udhëzues udhëtimi',
+    zh: '蓝眼泉 萨兰达 — 旅游指南',
+    en: 'The Blue Eye Sarandë — Travel Guide',
+  } as Record<string, string>,
   // Default locale: Albanian (sq); visitors can switch to Chinese (zh) / English (en).
   defaultLocale: 'sq' as const,
   mapsUrl: 'https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6',
@@ -31,7 +38,7 @@ export const siteConfig = {
   // Official tourism authority of Albania (Ministry of Tourism, Culture and Sport).
   govtTourismUrl: 'https://mtks.gov.al/en/',
   // Content revision date; keep in sync with visible "last updated" texts.
-  dateModified: '2026-08-31',
+  dateModified: '2026-09-24',
 };
 
 // Maps a next-intl locale to its hreflang / <html lang> value.

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "The Blue Eye Albania (Syri i Kaltër): 2026 Visitor Guide, Tickets & Location",
+    "title": "The Blue Eye Sarandë — Travel Guide",
     "description": "Plan your visit to The Blue Eye (Syri i Kaltër) near Saranda, Albania. Updated 2026 info on entrance fees, opening hours, swimming rules, directions & map."
   },
   "header": {
@@ -17,7 +17,7 @@
     "title": "The Blue Eye Albania (Syri i Kaltër)",
     "subtitle": "Nature reserve & karst spring near Sarandë, Albania",
     "rating": "4.4",
-    "reviewCount": "16,481 reviews",
+    "reviewCount": "16,893 reviews",
     "type": "Nature Reserve",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
@@ -98,6 +98,9 @@
       { "id": "legends", "label": "Legends & Stories" },
       { "id": "transport", "label": "Getting There" },
       { "id": "route", "label": "Suggested Route" },
+      { "id": "seasonal", "label": "Best Season" },
+      { "id": "itineraries", "label": "Itineraries" },
+      { "id": "responsibility", "label": "Visitor Responsibility" },
       { "id": "gallery", "label": "Photo Gallery" },
       { "id": "reviews", "label": "Visitor Reviews" },
       { "id": "faq", "label": "FAQ" },
@@ -380,7 +383,7 @@
     "forecast": "7-day forecast",
     "today": "Today",
     "updated": "Updated",
-    "source": "Data: Open-Meteo (ECMWF / DWD models), shown for the spring's coordinates. Conditions in this valley can change quickly — check an official forecast before you set out.",
+    "source": "Figures are shown for the spring's coordinates. Conditions in this valley can change quickly, so check an official forecast before you set out.",
     "loading": "Loading current weather…",
     "error": "Current weather data is temporarily unavailable.",
     "errorHint": "Use the links in the Sources section for an official forecast.",
@@ -417,6 +420,142 @@
     "linkTickets": "Entrance fee & ticket prices",
     "linkTransport": "How to get to The Blue Eye",
     "note": "Swimming rules are set by the protected-area authority and can change. Follow the signage on site and any instructions from staff."
+  },
+  "seasonal": {
+    "title": "Seasonal Visitor Strategy",
+    "subtitle": "How weather, the spring's clarity and wildlife shift through the year — and what each season is best for.",
+    "note": "Based on long-term climate observations for southern Albania and visitor reports, not an official forecast. Always check a current forecast before travelling.",
+    "cols": {
+      "season": "Season",
+      "weather": "Weather & light",
+      "spring": "The spring & water",
+      "wildlife": "Wildlife & nature",
+      "bestFor": "Best for"
+    },
+    "rows": [
+      {
+        "season": "Spring (Mar–May)",
+        "weather": "Mild, 15–22°C; rain showers possible. Long, soft daylight — ideal for photography.",
+        "spring": "Snowmelt swells the flow; the deep blue is vivid and the surrounding green is at its freshest.",
+        "wildlife": "Migrating birds and flowering woodland; wildflowers along the path.",
+        "bestFor": "Photographers, hikers and anyone who prefers fewer crowds."
+      },
+      {
+        "season": "Summer (Jun–Aug)",
+        "weather": "Hot, 28–34°C; almost no rain. The busiest and driest period.",
+        "spring": "Flow stays strong and cold (~10°C). The forest canopy gives welcome shade, but midday is crowded.",
+        "wildlife": "Lush, full canopy; best early morning for birdsong and cooler air.",
+        "bestFor": "Families on holiday — go early (before 10:00) or late to avoid the crush."
+      },
+      {
+        "season": "Autumn (Sep–Nov)",
+        "weather": "Warm early, cooling to 12–20°C; some rain returns. Fewer visitors.",
+        "spring": "Steady, clear water and golden light. The most comfortable walking weather of the year.",
+        "wildlife": "Autumn colours in the oaks and sycamores; calm, quiet trails.",
+        "bestFor": "Relaxed visits, walking and combining with Butrint or Gjirokastër."
+      },
+      {
+        "season": "Winter (Dec–Feb)",
+        "weather": "Cool to cold, 6–14°C; wetter and short days. Occasional frost.",
+        "spring": "The spring keeps its ~10°C and deep colour, but paths can be muddy and many cafés close.",
+        "wildlife": "Bare trees open up the views; very few people — a peaceful, atmospheric visit.",
+        "bestFor": "Solitude and moody photography; plan a short, weather-dependent trip."
+      }
+    ]
+  },
+  "itineraries": {
+    "title": "Suggested Itineraries",
+    "subtitle": "Pick a route that matches your group and the time you have.",
+    "audienceTitle": "By type of visitor",
+    "audiences": [
+      {
+        "id": "families",
+        "name": "Families with children",
+        "desc": "A short, mostly flat walk with a big payoff at the spring — a great first family outing in Albania.",
+        "tips": [
+          "Go early to beat both the heat and the crowds.",
+          "Keep little ones within arm's reach near the railed water's edge.",
+          "Bring water, snacks and a change of clothes; facilities are basic.",
+          "Save the beach (Ksamil) for the afternoon cool-down."
+        ]
+      },
+      {
+        "id": "photographers",
+        "name": "Photographers & nature lovers",
+        "desc": "The Blue Eye is a study in colour and stillness — worth the early start for soft light.",
+        "tips": [
+          "Arrive at opening for calm water and fewer reflections from crowds.",
+          "A polarising filter deepens the blue and cuts glare off the surface.",
+          "Shoot the outflow along the Bistricë for moving-water textures.",
+          "Drones are restricted over protected areas — use a tripod instead."
+        ]
+      },
+      {
+        "id": "accessible",
+        "name": "Low-mobility & accessible",
+        "desc": "The approach is largely level, but the final section has steps and uneven ground.",
+        "tips": [
+          "Ask to be dropped near the entrance to shorten the walk.",
+          "Take the route at your own pace and use the benches along the path.",
+          "Wear sturdy shoes for the gravel stretches.",
+          "Plan toilet stops before leaving Sarandë."
+        ]
+      }
+    ],
+    "routesTitle": "By available time",
+    "halfDay": {
+      "title": "Half-day visit",
+      "time": "About 2–3 hours",
+      "steps": [
+        "Drive or take a taxi from Sarandë (30–45 min); arrive before 10:00.",
+        "Walk the shaded 1.5–2 km trail to the spring (25–30 min).",
+        "Spend time on the viewing platform and along the outflow.",
+        "Coffee or lunch at a simple eatery by the path.",
+        "Return to the coast before the late-afternoon crowds build."
+      ]
+    },
+    "fullDay": {
+      "title": "Full-day loop",
+      "time": "About 6–8 hours",
+      "steps": [
+        "Morning at the Blue Eye: walk in, photograph, enjoy the platform.",
+        "Coffee or trout lunch at a valley eatery.",
+        "Drive on to Butrint (UNESCO) or Gjirokastër (UNESCO) for the afternoon.",
+        "Stop at Ksamil beach on the way back for a swim.",
+        "Return to Sarandë for sunset along the coast road."
+      ]
+    }
+  },
+  "responsibility": {
+    "title": "Science & Visitor Responsibility",
+    "subtitle": "Why the Blue Eye stays blue — and how visitors help keep it that way.",
+    "items": [
+      {
+        "id": "water",
+        "name": "Water quality & the karst system",
+        "desc": "The spring rises from a karst aquifer fed by rain and snowmelt on the Mali i Gjerë massif. What enters the catchment — soap, sunscreen, litter — reaches the water directly with no filtration, so keeping the source clean protects the whole system."
+      },
+      {
+        "id": "wildlife",
+        "name": "Woodland & wildlife",
+        "desc": "Oak and sycamore canopy shade the spring and shelter riverine birds. Stay on the marked paths and platforms so the banks and roots are not worn away."
+      },
+      {
+        "id": "zerowaste",
+        "name": "Leave no trace",
+        "desc": "Bins overflow on busy days and the reserve cannot absorb litter. Carry out what you bring in, and never light open fires inside a protected monument."
+      },
+      {
+        "id": "safety",
+        "name": "Safety at the spring",
+        "desc": "The water is about 10°C year-round with a strong upwelling current; the shaft's true depth is unmeasured. Keep children close, wear sturdy shoes on slippery gravel, and never enter the water."
+      },
+      {
+        "id": "respect",
+        "name": "Respect the protected area",
+        "desc": "The site is a Nature Monument (IUCN category III) managed by Albania's protected-area authority. Follow signage, staff guidance and the no-swimming rule — they exist to keep the spring remarkable for everyone."
+      }
+    ]
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -490,7 +629,7 @@
     "city": "City",
     "cityValue": "Saranda",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (16,481)",
+    "googleRatingValue": "4.4 (16,893)",
     "address": "Address",
     "addressValue": "Sarande SHA22, Saranda 9701 Albania",
     "accessibility": "Accessibility",
@@ -530,13 +669,17 @@
     "fromStation": "From Gjirokastër",
     "fromStationDesc": "About a 45-60 minute drive towards Saranda.",
     "fromAirport": "From Tirana Airport",
-    "fromAirportDesc": "Around a 4-5 hour drive south.",
+    "fromAirportDesc": "The nearest major airport is Tirana International Airport (TIA), about 280 km north. From there the simplest route is to drive south (4–5 hours) via the A1 and coastal roads, or take a domestic flight to the much closer Corfu (Greece) and a short ferry to Sarandë, then drive ~30–45 minutes inland. Buses and private transfers run from Tirana to Sarandë throughout the day.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "You can take the public bus traveling between Saranda and Gjirokastër. Ask the driver to drop you off at The Blue Eye (Syri i Kaltër). The ticket is around 300 Lek, and the ride takes about 45 minutes. After getting off, you will need to walk about 2 km along a scenic road to reach the ticket office and spring.",
+    "publicTransportDesc": "A public bus runs between Sarandë and Gjirokastër and can drop you at the Blue Eye junction — tell the driver 'Syri i Kaltër'. The fare is around 300 Lek and the ride about 45 minutes. From the drop-off you still walk about 2 km along a scenic road to the ticket office and spring. Services are more frequent in summer; off-season, confirm times locally.",
     "walking": "Walking",
     "walkingDesc": "From the main road turnoff or parking area, you will need to walk 1.5 to 2 km along a paved or dirt path surrounded by nature to reach the spring. Comfortable walking shoes are highly recommended.",
     "driving": "Driving",
-    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance. The road conditions are good, but it can get quite crowded during the summer peak season, so arriving early is recommended. Renting a scooter from Saranda is also a very popular option."
+    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance. The road conditions are good, but it can get quite crowded during the summer peak season, so arriving early is recommended. Renting a car or a scooter from Sarandë is also a very popular option.",
+    "taxi": "Taxi",
+    "taxiDesc": "Taxis and ride-hailing apps operate in Sarandë and Ksamil. A one-way taxi to the Blue Eye typically takes 30–45 minutes; arranging the return trip in advance is wise, as on-site availability is limited. Agree the fare before departure and keep small cash (Lek) on hand.",
+    "tour": "Organised tour",
+    "tourDesc": "Many local agencies in Sarandë and Ksamil sell half-day or full-day excursions that combine the Blue Eye with Butrint, Gjirokastër or Ksamil. A guided option removes the hassle of driving and parking, and usually includes hotel pickup."
   },
   "route": {
     "title": "Recommended Route",

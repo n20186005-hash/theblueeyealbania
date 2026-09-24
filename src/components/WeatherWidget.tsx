@@ -1,43 +1,14 @@
-'use client';
+// Weather section — Server Component.
+//
+// Data is fetched on the server (see src/lib/weather.ts) and cached there, so
+// the visitor only ever sees the result (current conditions + 7-day outlook).
+// We deliberately keep any mention of the data provider or its licensing out of
+// the rendered UI: a visitor cares about whether they need a coat or an umbrella,
+// not where the numbers come from.
 
-import { useEffect, useState } from 'react';
-import { useTranslations, useLocale } from 'next-intl';
-import { siteConfig } from '@/config/site';
+import { getTranslations, getLocale } from 'next-intl/server';
 import type { ReactNode } from 'react';
-
-type CurrentWeather = {
-  time: string;
-  temperature_2m: number;
-  apparent_temperature: number;
-  relative_humidity_2m: number;
-  precipitation: number;
-  weather_code: number;
-  wind_speed_10m: number;
-};
-
-type DailyForecast = {
-  time: string[];
-  weather_code: number[];
-  temperature_2m_max: number[];
-  temperature_2m_min: number[];
-  precipitation_probability_max: number[];
-  sunrise: string[];
-  sunset: string[];
-};
-
-type WeatherPayload = {
-  current: CurrentWeather;
-  daily: DailyForecast;
-};
-
-const endpoint =
-  'https://api.open-meteo.com/v1/forecast' +
-  `?latitude=${siteConfig.coordinates.latitude}` +
-  `&longitude=${siteConfig.coordinates.longitude}` +
-  '&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m' +
-  '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset' +
-  `&timezone=${encodeURIComponent(siteConfig.timezone)}` +
-  '&forecast_days=7';
+import { getWeather, buildAdvice, adviceLabels } from '@/lib/weather';
 
 const INTL_LOCALE: Record<string, string> = {
   sq: 'sq-AL',
@@ -149,39 +120,17 @@ function WeatherIcon({ code, size = 28 }: { code: number; size?: number }) {
   return icons[key] ?? icons.clear;
 }
 
-export default function WeatherWidget() {
-  const t = useTranslations('weather');
-  const locale = useLocale();
+export default async function WeatherWidget() {
+  const t = await getTranslations('weather');
+  const locale = await getLocale();
   const intlLocale = INTL_LOCALE[locale] || 'en-GB';
-  const [status, setStatus] = useState<'loading' | 'ready' | 'error'>('loading');
-  const [data, setData] = useState<WeatherPayload | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    fetch(endpoint)
-      .then((res) => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        return res.json();
-      })
-      .then((json: WeatherPayload) => {
-        if (cancelled) return;
-        if (json?.current && json?.daily) {
-          setData(json);
-          setStatus('ready');
-        } else {
-          setStatus('error');
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setStatus('error');
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
+  const data = await getWeather();
+  const advice = data ? buildAdvice(data, locale) : null;
 
   const formatWeekday = (iso: string, index: number) =>
-    index === 0 ? t('today') : new Intl.DateTimeFormat(intlLocale, { weekday: 'short' }).format(new Date(iso));
+    index === 0
+      ? t('today')
+      : new Intl.DateTimeFormat(intlLocale, { weekday: 'short' }).format(new Date(iso));
 
   const formatDay = (iso: string) =>
     new Intl.DateTimeFormat(intlLocale, { day: 'numeric', month: 'short' }).format(new Date(iso));
@@ -212,23 +161,7 @@ export default function WeatherWidget() {
           {t('subtitle')}
         </p>
 
-        {status === 'loading' && (
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4" aria-busy="true" aria-live="polite">
-            {[0, 1, 2].map((i) => (
-              <div
-                key={i}
-                className="rounded-2xl p-6 animate-pulse"
-                style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
-              >
-                <div className="h-4 w-20 rounded mb-4" style={{ background: 'var(--border-color)' }} />
-                <div className="h-8 w-24 rounded" style={{ background: 'var(--border-color)' }} />
-              </div>
-            ))}
-            <span className="sr-only">{t('loading')}</span>
-          </div>
-        )}
-
-        {status === 'error' && (
+        {!data ? (
           <div
             className="rounded-xl p-5 flex items-start gap-3"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
@@ -255,9 +188,7 @@ export default function WeatherWidget() {
               </p>
             </div>
           </div>
-        )}
-
-        {status === 'ready' && data && (
+        ) : (
           <div className="space-y-4">
             {/* Current conditions */}
             <div
@@ -330,6 +261,47 @@ export default function WeatherWidget() {
               </div>
             </div>
 
+            {/* Actionable advice — only lines relevant to today's conditions are shown */}
+            {advice && (
+              <div
+                className="rounded-2xl p-6 sm:p-7 space-y-4"
+                style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+              >
+                {advice.risk.length > 0 && (
+                  <div
+                    className="rounded-xl p-4 flex items-start gap-3"
+                    style={{ background: 'rgba(220,38,38,0.08)', border: '1px solid rgba(220,38,38,0.45)' }}
+                  >
+                    <svg
+                      width="20"
+                      height="20"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="#b91c1c"
+                      strokeWidth="2"
+                      className="flex-shrink-0 mt-0.5"
+                    >
+                      <path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" />
+                    </svg>
+                    <div>
+                      <p className="font-semibold mb-1" style={{ color: '#b91c1c' }}>
+                        {adviceLabels(locale).risk}
+                      </p>
+                      <ul className="list-disc pl-5 space-y-0.5 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                        {advice.risk.map((r, i) => (
+                          <li key={i}>{r}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                )}
+
+                <AdviceGroup title={adviceLabels(locale).outfit} items={advice.outfit} />
+                <AdviceGroup title={adviceLabels(locale).plan} items={advice.plan} />
+                <AdviceGroup title={adviceLabels(locale).items} items={advice.items} />
+              </div>
+            )}
+
             {/* 7-day forecast */}
             <div>
               <h3
@@ -354,6 +326,9 @@ export default function WeatherWidget() {
                     <div className="flex justify-center my-1" style={{ color: 'var(--accent)' }}>
                       <WeatherIcon code={data.daily.weather_code[index]} size={24} />
                     </div>
+                    <p className="text-[11px] leading-tight px-1" style={{ color: 'var(--text-secondary)' }}>
+                      {t(`codes.${codeKey(data.daily.weather_code[index])}` as any)}
+                    </p>
                     <p className="text-sm font-semibold" style={{ color: 'var(--text-primary)' }}>
                       {Math.round(data.daily.temperature_2m_max[index])}°
                     </p>
@@ -371,9 +346,6 @@ export default function WeatherWidget() {
             </div>
 
             <p className="text-xs leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-              {t('source')}
-            </p>
-            <p className="text-xs" style={{ color: 'var(--text-secondary)' }}>
               {t('updated')}: {formatUpdated(data.current.time)}
             </p>
           </div>
@@ -392,6 +364,28 @@ function Metric({ label, value }: { label: string; value: string }) {
       <p className="font-semibold" style={{ color: 'var(--text-primary)' }}>
         {value}
       </p>
+    </div>
+  );
+}
+
+function AdviceGroup({ title, items }: { title: string; items: string[] }) {
+  if (!items.length) return null;
+  return (
+    <div>
+      <p
+        className="text-xs font-semibold uppercase tracking-wider mb-2"
+        style={{ color: 'var(--accent)' }}
+      >
+        {title}
+      </p>
+      <ul className="space-y-1 text-sm" style={{ color: 'var(--text-secondary)' }}>
+        {items.map((it, i) => (
+          <li key={i} className="flex items-start gap-2">
+            <span style={{ color: 'var(--accent)' }}>✓</span>
+            <span>{it}</span>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
