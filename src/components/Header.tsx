@@ -33,6 +33,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
+          <a href={`/${locale}/#explore-guides`} className="text-sm font-medium" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{locale === 'zh' ? '游览指南' : locale === 'sq' ? 'Udhëzues' : 'Guides'}</a>
           {(['facilities', 'history', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
