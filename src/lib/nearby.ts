@@ -93,3 +93,15 @@ export const nearbyVisit: Record<Locale, Record<NearbySlug, VisitDetails>> = {
     'ksamil-beach': { hours: '公共海岸通道与季节性沙滩服务时间不同，游泳需遵守当天海况提示。', tickets: '遮阳伞、躺椅及私人沙滩服务可能收费，应在使用前确认。', transport: '从萨兰达公路抵达克萨米尔村，再步行至所选海滩入口；旺季停车可能紧张。', highlights: ['清澈的海湾游泳水域', '面向克萨米尔小岛的视野', '村镇滨海步道'], stay: '想以海滩为主可住克萨米尔；萨兰达则适合与布特林特组成一日行程。' },
   },
 };
+
+export const nearbyCategories: Record<Locale, Record<NearbySlug, string>> = {
+  en: {
+    'lekuresi-castle': 'Hilltop fortress', 'butrint-national-park': 'National park and archaeology', 'gjirokaster-castle': 'Historic castle', 'finiq-archaeological-park': 'Archaeological park', 'ksamil-islets': 'Coastal islets', 'gjirokaster-old-bazaar': 'Historic market quarter', 'forty-saints-monastery': 'Monastery ruins', 'mesopotam-monastery': 'Medieval monastery church', 'porto-palermo-castle': 'Coastal fortress', 'ksamil-beach': 'Ionian coast beach',
+  },
+  sq: {
+    'lekuresi-castle': 'Kala mbi kodër', 'butrint-national-park': 'Park kombëtar dhe arkeologji', 'gjirokaster-castle': 'Kala historike', 'finiq-archaeological-park': 'Park arkeologjik', 'ksamil-islets': 'Ishuj bregdetarë', 'gjirokaster-old-bazaar': 'Lagje historike tregtare', 'forty-saints-monastery': 'Rrënoja manastiri', 'mesopotam-monastery': 'Kishë manastiri mesjetar', 'porto-palermo-castle': 'Fortesë bregdetare', 'ksamil-beach': 'Plazh i bregdetit Jon',
+  },
+  zh: {
+    'lekuresi-castle': '山顶堡垒', 'butrint-national-park': '国家公园与考古遗址', 'gjirokaster-castle': '历史城堡', 'finiq-archaeological-park': '考古公园', 'ksamil-islets': '近岸群岛', 'gjirokaster-old-bazaar': '历史商业街区', 'forty-saints-monastery': '修道院遗址', 'mesopotam-monastery': '中世纪修道院教堂', 'porto-palermo-castle': '海岸堡垒', 'ksamil-beach': '爱奥尼亚海海滩',
+  },
+};
