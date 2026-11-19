@@ -16,11 +16,11 @@
   "hero": {
     "title": "蓝眼泉 Syri i Kaltër",
     "subtitle": "阿尔巴尼亚萨兰达附近的自然保护区与喀斯特泉",
-    "rating": "4.4",
-    "reviewCount": "16,893 条评价",
+    "rating": "4.7",
+    "reviewCount": "29,230 条评价",
     "type": "自然保护区",
     "openMaps": "在Google地图上查看位置",
-    "mapsLink": "https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6"
+    "mapsLink": "https://maps.google.com/?cid=9486064826506292598"
   },
   "intro": {
     "title": "探索 The Blue Eye",
@@ -629,7 +629,7 @@
     "city": "城市",
     "cityValue": "萨兰达 (Saranda)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.4 (16,893)",
+    "googleRatingValue": "4.7 (29,230)",
     "address": "地址",
     "addressValue": "Sarande SHA22, Saranda 9701 阿尔巴尼亚",
     "accessibility": "无障碍设施",
