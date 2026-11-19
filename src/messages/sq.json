@@ -16,11 +16,11 @@
   "hero": {
     "title": "Syri i Kaltër (The Blue Eye)",
     "subtitle": "Rezervë natyrore & burim karstik pranë Sarandës, Shqipëri",
-    "rating": "4.7",
-    "reviewCount": "29,230 vlerësime",
+    "rating": "4.4",
+    "reviewCount": "17,583 vlerësime",
     "type": "Rezervë Natyrore",
     "openMaps": "Shiko në Google Maps",
-    "mapsLink": "https://maps.google.com/?cid=9486064826506292598"
+    "mapsLink": "https://maps.app.goo.gl/j7NviAtfiX9cDXip9"
   },
   "intro": {
     "title": "Zbuloni Syrin e Kaltër",
@@ -629,7 +629,7 @@
     "city": "Qyteti",
     "cityValue": "Sarandë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.7 (29,230)",
+    "googleRatingValue": "4.4 (17,583)",
     "address": "Adresa",
     "addressValue": "Sarande SHA22, Saranda 9701 Shqipëri",
     "accessibility": "Aksesueshmëria",
