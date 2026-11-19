@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { siteConfig, hreflangLocale } from '@/config/site';
+import { guideSlugs } from '@/lib/guides';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = siteConfig.baseUrl;
@@ -12,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/privacy-policy',
     '/terms-of-service',
     '/cookie-settings',
+    ...guideSlugs.map(slug => `/guides/${slug}`),
   ];
 
   for (const locale of routing.locales) {
@@ -28,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         url,
         lastModified: new Date(siteConfig.dateModified),
         changeFrequency: 'weekly',
-        priority: page === '' ? 1 : 0.5,
+        priority: page === '' ? 1 : page.startsWith('/guides/') ? 0.8 : 0.5,
         alternates: {
           languages,
         },
