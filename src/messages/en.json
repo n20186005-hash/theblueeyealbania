@@ -16,11 +16,11 @@
   "hero": {
     "title": "The Blue Eye Albania (Syri i Kaltër)",
     "subtitle": "Nature reserve & karst spring near Sarandë, Albania",
-    "rating": "4.7",
-    "reviewCount": "29,230 reviews",
+    "rating": "4.4",
+    "reviewCount": "17,583 reviews",
     "type": "Nature Reserve",
     "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.google.com/?cid=9486064826506292598"
+    "mapsLink": "https://maps.app.goo.gl/j7NviAtfiX9cDXip9"
   },
   "intro": {
     "title": "Discover The Blue Eye",
@@ -629,7 +629,7 @@
     "city": "City",
     "cityValue": "Saranda",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7 (29,230)",
+    "googleRatingValue": "4.4 (17,583)",
     "address": "Address",
     "addressValue": "Sarande SHA22, Saranda 9701 Albania",
     "accessibility": "Accessibility",
