@@ -14,7 +14,7 @@ export const siteConfig = {
   } as Record<string, string>,
   // Default locale: Albanian (sq); visitors can switch to Chinese (zh) / English (en).
   defaultLocale: 'sq' as const,
-  mapsUrl: 'https://maps.app.goo.gl/s9TJ3BS1FCPETXSe6',
+  mapsUrl: 'https://maps.app.goo.gl/j7NviAtfiX9cDXip9',
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5442.452395684582!2d20.1874873!3d39.921581!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b0f01c1bca3b5%3A0x4b23574d1579d66b!2sThe%20Blue%20Eye!5e1!3m2!1szh-CN!2s!4v1788180080932!5m2!1szh-CN!2s',
   coordinates: {
