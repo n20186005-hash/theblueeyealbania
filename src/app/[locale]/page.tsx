@@ -28,6 +28,7 @@ import Itineraries from '@/components/Itineraries';
 import VisitorResponsibility from '@/components/VisitorResponsibility';
 import Footer from '@/components/Footer';
 import ExploreGuides from '@/components/ExploreGuides';
+import NearbyPlaces from '@/components/NearbyPlaces';
 
 // Refresh server-rendered content (including the server-side weather fetch)
 // at most every 10 minutes.
@@ -322,6 +323,7 @@ export default async function HomePage({
         <SeasonalStrategy />
         <Itineraries />
         <ExploreGuides locale={locale} />
+        <NearbyPlaces locale={locale} />
         <VisitorResponsibility />
         <Gallery />
         <Reviews />
