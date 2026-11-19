@@ -8,7 +8,7 @@ export const siteConfig = {
   // SEO site name in the format "Attraction + City + Travel Guide" per locale.
   // Used for <title>, og:site_name and JSON-LD.
   siteName: {
-    sq: 'Syri i Kaltër Sarandë — Udhëzues udhëtimi',
+    sq: 'Syri i Kaltër (Blue Eye Albania) – Bileta, orari dhe rruga nga Saranda',
     zh: '蓝眼泉 萨兰达 — 旅游指南',
     en: 'The Blue Eye Sarandë — Travel Guide',
   } as Record<string, string>,
